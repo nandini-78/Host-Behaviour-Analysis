@@ -1,0 +1,473 @@
+id,name,neighbourhood_cleansed,latitude,longitude,property_type,room_type,accommodates,bedrooms,beds,price,minimum_nights,maximum_nights,review_scores_rating,review_scores_accuracy,review_scores_cleanliness,review_scores_checkin,review_scores_communication,review_scores_location,review_scores_value,instant_bookable,host_id
+50655783,Luxurious Spacious 1 Bedroom in Dallas,District 11,32.93762,-96.82281,Entire rental unit,Entire home/apt,4,1.0,2.0,122.0,1,365,4.97,4.97,4.91,4.67,4.97,4.97,4.97,True,349473128
+54196007,Luxury 1BR GEM Near Galleria Mall All Things Blue,District 11,32.94712,-96.82599,Entire rental unit,Entire home/apt,2,1.0,1.0,136.0,1,1125,4.73,4.86,4.82,4.77,4.86,4.68,4.77,False,408473679
+4671587,Beautiful 3 Story Townhome - Downtown Dallas,District 2,32.780848079814575,-96.79106982420878,Entire townhouse,Entire home/apt,6,3.0,3.0,303.0,2,1125,4.9,4.94,4.85,4.96,4.95,4.9,4.83,False,23751816
+4937446,Northeast Dallas,District 10,32.87459,-96.6936,Private room in home,Private room,1,1.0,1.0,60.0,2,14,5.0,5.0,5.0,5.0,5.0,4.67,4.67,False,8361847
+5019741,"3 Bed 2 Bath, Downtown Townhome, Modern & Peaceful",District 14,32.79689,-96.78413,Entire townhouse,Entire home/apt,5,3.0,3.0,135.0,28,1125,4.75,4.93,4.97,4.97,4.98,4.57,4.85,False,9761734
+5778671,Medical Professional Welcome,District 6,32.87351,-96.85159,Private room in home,Private room,1,1.0,1.0,35.0,5,90,4.75,4.88,4.63,5.0,4.88,5.0,4.75,False,1294259
+6200898,Turtle Creek Condo,District 14,32.80304,-96.80965,Private room in condo,Private room,2,2.0,1.0,60.0,14,30,5.0,4.96,5.0,4.96,5.0,4.93,5.0,False,32157153
+8716333,COZY 1 BEDROOM IN NORTH DALLAS,District 11,32.95742,-96.8076,Private room in rental unit,Private room,3,1.0,1.0,71.0,2,1125,4.89,4.91,4.91,4.98,4.95,4.84,5.0,False,27296534
+9340939,Lovely home near White Rock Lake,District 10,32.87362,-96.72642,Private room in home,Private room,2,1.0,1.0,70.0,1,1125,4.65,4.52,4.61,4.75,4.61,4.88,4.7,True,25090597
+9415835,Historic Sanctuary in the City | Hera House,District 14,32.81272,-96.76833,Entire home,Entire home/apt,2,1.0,1.0,88.0,2,7,4.83,4.86,4.86,4.95,4.94,4.95,4.84,False,48821106
+10037226,Stay in Style! Heart of Dallas 106,District 2,32.808,-96.81287,Entire condo,Entire home/apt,2,1.0,1.0,62.0,30,365,4.7,4.8,4.35,5.0,4.95,5.0,4.7,False,49028930
+13139581,"Stunning Room Near Uptown, Downtown, Deep Ellum",District 14,32.79702,-96.79184,Private room in townhouse,Private room,2,1.0,1.0,109.0,1,30,4.84,4.92,4.7,4.92,4.96,4.91,4.87,False,73227695
+13262768,Chic ensuite room with  kitchenette/livingroom.,District 14,32.80227,-96.78656,Private room in townhouse,Private room,4,1.0,2.0,58.0,2,7,4.96,4.98,4.99,4.97,4.99,4.8,4.95,False,74141217
+14430296,Cozy Room close to Downtown Dallas & SMU,District 14,32.84621,-96.76757,Private room in condo,Private room,1,1.0,1.0,32.0,32,1111,4.73,4.27,4.09,4.8,4.64,4.73,4.4,False,42797060
+14468330,Modern new condo.,District 11,32.88561,-96.77203,Entire condo,Entire home/apt,3,1.0,,150.0,21,365,4.25,4.42,4.33,4.42,4.5,4.58,4.33,False,15751176
+14843318,Bed 3B Shared Space! Close to Downtown Dallas!,District 1,32.75502,-96.81407,Shared room in home,Shared room,1,1.0,1.0,25.0,1,29,4.81,4.91,4.95,4.97,4.9,4.81,4.9,True,59509385
+15110568,"Cozy Nest - Near SMU, Convention Center & Downtown",District 14,32.82881,-96.77874,Private room in home,Private room,2,1.0,1.0,62.0,2,30,4.95,4.96,4.96,4.96,4.98,4.97,4.95,False,95719694
+15342254,A Room With a View,District 14,32.8357,-96.77329,Private room in home,Private room,2,1.0,1.0,75.0,1,1125,4.94,4.97,4.87,4.96,4.96,4.99,4.87,False,95030182
+15342315,Charming Cabin Near Deep Ellum & Fair Park,District 5,32.76427,-96.6942,Tiny home,Entire home/apt,2,1.0,1.0,63.0,1,14,4.97,4.98,4.93,4.98,4.99,4.92,4.95,True,10487666
+15804483,Peaceful and cozy home,District 13,32.87046,-96.79141,Entire home,Entire home/apt,4,2.0,2.0,130.0,4,1125,4.55,4.77,4.5,4.9,4.86,4.81,4.52,False,971049
+16106618,"Modern, Bright 1 Bed Condo! Patio&Great Amenities",District 14,32.8152,-96.806,Entire rental unit,Entire home/apt,4,1.0,1.0,86.0,29,1125,4.93,4.93,4.87,5.0,5.0,5.0,4.64,False,9761734
+16239694,"Refined, Art-Filled Home in Preston Hollow",District 13,32.88426,-96.78933,Entire home,Entire home/apt,8,4.0,4.0,990.0,2,1125,5.0,5.0,5.0,5.0,5.0,5.0,5.0,False,5742868
+17347719, West Village Uptown ,District 14,32.81438,-96.79155,Entire rental unit,Entire home/apt,4,1.0,2.0,165.0,2,360,5.0,5.0,5.0,5.0,5.0,5.0,5.0,False,108514926
+17926037,The Medley Bungalow,District 14,32.79584,-96.78586,Entire home,Entire home/apt,4,2.0,2.0,171.0,3,1125,5.0,5.0,5.0,4.98,4.98,4.94,4.94,False,35406521
+18482064,Amazing Price on a Brand NEW UPTOWN Apartment,District 14,32.81395,-96.79095,Entire rental unit,Entire home/apt,3,1.0,2.0,120.0,12,120,5.0,5.0,5.0,5.0,5.0,4.67,4.67,True,108514926
+18668866,Cozy Private Garden Cottage- Great Neighborhood,District 14,32.80876,-96.76593,Entire guesthouse,Entire home/apt,3,1.0,1.0,66.0,1,15,4.93,4.96,4.92,4.96,4.95,4.93,4.91,True,129748591
+18826566,Modern Cozy Loft,District 14,32.77887,-96.79898,Entire loft,Entire home/apt,2,1.0,1.0,100.0,1,20,5.0,5.0,5.0,5.0,5.0,5.0,5.0,False,131092326
+19506283,The heart of Dallas Uptown/Downtown ,District 14,32.80181,-96.79129,Entire rental unit,Entire home/apt,6,2.0,3.0,150.0,5,120,5.0,4.6,4.8,4.8,5.0,4.8,4.8,True,108514926
+20005189,Business / Corporate  Travelers,District 14,32.78881,-96.78932,Entire rental unit,Entire home/apt,4,1.0,1.0,120.0,20,365,4.33,4.67,5.0,5.0,4.67,4.33,4.33,False,112593570
+20425354,"Lake house near DBU , UTA, 6Flags",District 3,32.71789,-96.97356,Entire home,Entire home/apt,9,3.0,6.0,240.0,1,28,4.85,4.89,4.83,4.93,4.96,4.88,4.84,True,88073468
+20673333,Oaklawn Studio - Medical District,District 2,32.81362,-96.8164,Entire condo,Entire home/apt,2,,1.0,83.0,50,365,4.78,4.89,4.89,5.0,4.89,4.67,4.56,False,32353695
+20675354,Park Cities/SMU/North Dallas  Condo 1BD/1BA Condo.,District 14,32.84236,-96.76775,Entire condo,Entire home/apt,3,1.0,2.0,76.0,30,1125,3.8,4.1,3.8,4.8,4.9,4.4,3.7,False,107583316
+20688249,Lake Highlands Haven,District 10,32.87175,-96.70083,Private room in home,Private room,2,1.0,1.0,31.0,14,1125,4.78,4.67,4.44,4.78,4.89,4.78,4.78,False,9317048
+20786683,Walkable Luxury Style Turtle Creek  Near All #C,District 14,32.80856,-96.8051,Entire townhouse,Entire home/apt,12,4.0,7.0,190.0,1,365,4.82,4.82,4.75,4.96,4.84,4.91,4.77,False,93232901
+21088291,Cool Studio Apartment near White Rock Lake,District 10,32.86682,-96.69175,Entire rental unit,Entire home/apt,2,1.0,1.0,65.0,1,10,4.82,4.77,4.68,4.95,4.97,4.92,4.91,True,127689710
+21123786,"The Monticello Guest House - M Streets, Dallas",District 14,32.82729,-96.77908,Entire guesthouse,Entire home/apt,2,1.0,,82.0,2,1125,4.86,4.94,4.94,4.94,4.9,4.98,4.83,True,152362711
+21124379, AMAZING PRICE West-Village Walk Anywhere ,District 14,32.80921,-96.7958,Entire rental unit,Entire home/apt,3,1.0,2.0,120.0,3,120,2.5,2.5,4.5,2.0,2.5,4.5,4.0,True,108514926
+21427426,Bungalow 5 Min. to Downtown/Blocks to Bishop Arts,District 1,32.75227,-96.81843,Entire bungalow,Entire home/apt,10,4.0,6.0,190.0,3,1125,4.94,4.93,4.92,4.99,4.99,4.71,4.89,True,155302825
+21576720,Mid Century Guest House,District 1,32.75803,-96.84939,Entire guesthouse,Entire home/apt,2,1.0,1.0,94.0,1,1125,4.97,4.99,4.94,4.99,4.99,4.98,4.96,False,89845
+21757144, West Village Uptown NEW and AMAZING Price ,District 14,32.81482,-96.79146,Entire rental unit,Entire home/apt,4,1.0,2.0,88.0,4,220,,,,,,,,False,108514926
+21772038,F.A.D Furnished Apartments Dallas ,District 14,32.78859,-96.79047,Entire rental unit,Entire home/apt,3,1.0,2.0,120.0,28,333,4.5,5.0,5.0,5.0,5.0,5.0,5.0,False,108514926
+22922509,Modern guesthouse with garage,District 2,32.8187,-96.77695,Entire guesthouse,Entire home/apt,2,1.0,1.0,145.0,1,6,4.99,4.99,4.95,4.99,4.99,4.98,4.97,False,169717974
+23093828,"Private, Cozy, Above Garage Apt in Oaklawn!",District 14,32.82081,-96.80606,Entire guest suite,Entire home/apt,6,2.0,3.0,78.0,1,1125,4.7,4.85,4.82,4.87,4.81,4.87,4.75,False,443730443
+23129933,Lovely Cozy Condo Near Uptown & Down Town!,District 14,32.81637,-96.81555,Entire condo,Entire home/apt,2,2.0,2.0,110.0,15,200,4.88,4.88,4.72,4.97,5.0,5.0,4.91,False,97575284
+24376093,Clean Comfortable Luxurious Apt Close to Downtown,District 14,32.80386,-96.7564,Entire rental unit,Entire home/apt,4,1.0,3.0,98.0,1,1125,4.83,4.93,4.92,4.88,4.94,4.85,4.86,True,43384036
+25428791,"1-Private entry by Bishop Arts, peacocks, downtown",District 4,32.73216,-96.82196,Private room in cottage,Private room,2,1.0,1.0,50.0,1,30,4.76,4.86,4.63,4.86,4.94,4.88,4.92,False,11775451
+25842287,Mid-Century Modern Styled House w/ Private Suite!,District 4,32.69233,-96.84741,Private room in home,Private room,2,1.0,2.0,60.0,2,1125,4.95,4.95,4.93,4.96,4.98,4.91,4.98,False,81426399
+25946124,Dallas R&R Hostel // Dorm Bed B,District 1,32.75374,-96.8587,Shared room in home,Shared room,1,1.0,1.0,17.0,1,14,4.35,4.58,4.39,4.84,4.77,4.72,4.6,False,384442953
+26298829, Uptown 2 bedroom + den Super Comfortable ,District 2,32.81391,-96.7871,Entire rental unit,Entire home/apt,8,3.0,5.0,500.0,2,360,4.14,4.29,4.29,3.86,4.57,4.71,4.14,False,108514926
+26359798,Apartment above Shop in the Heart of Bishop Arts,District 1,32.74866,-96.8289,Entire rental unit,Entire home/apt,2,1.0,1.0,73.0,1,8,4.83,4.95,4.84,4.92,4.89,4.98,4.89,True,55953759
+26742903,"Urban, Fresh , Dallas Nook",District 2,32.76659,-96.79084,Private room in rental unit,Private room,3,1.0,1.0,89.0,1,365,4.67,4.78,4.89,4.82,4.91,4.76,4.82,True,181520047
+27600175,BEAUTIFUL UPDATED 2bd/2.5ba GATED TOWNHOME + POOL!,District 11,32.94341,-96.8027,Entire rental unit,Entire home/apt,8,2.0,5.0,105.0,30,1125,4.75,4.75,4.63,5.0,5.0,4.88,4.75,False,15446227
+27856602,2 /2 + den King / Queen / 2 twins AMAZING LOCATION,District 2,32.81415,-96.78883,Entire rental unit,Entire home/apt,8,3.0,5.0,236.0,5,120,4.11,4.22,4.11,4.22,4.22,4.78,4.11,True,108514926
+27872848,2 /2 + den King / Queen / 2 twins AMAZING LOCATION,District 14,32.81599,-96.78899,Entire rental unit,Entire home/apt,8,3.0,5.0,148.0,56,320,5.0,5.0,5.0,4.75,4.75,5.0,5.0,True,108514926
+27928236,KING BED | FREE PARKING | FULL KITCHEN | GYM  POOL,District 2,32.81176,-96.83009,Entire rental unit,Entire home/apt,4,1.0,2.0,185.0,5,90,1.0,1.0,1.0,1.0,1.0,5.0,5.0,True,108514926
+28217927,**Uptown Dallas Travelers**,District 14,32.8138,-96.79198,Entire condo,Entire home/apt,4,1.0,1.0,120.0,70,360,,,,,,,,True,112593570
+28238057,Spacious Eclectic Apartment + Easy Access/parking,District 2,32.81047,-96.81411,Entire rental unit,Entire home/apt,2,1.0,1.0,110.0,2,365,4.81,4.92,4.81,4.94,4.81,4.9,4.84,False,4952226
+28265177,KING BED | FREE PARKING | GYM | POOL,District 14,32.81424,-96.79181,Entire rental unit,Entire home/apt,4,1.0,2.0,120.0,56,120,5.0,5.0,5.0,5.0,5.0,5.0,5.0,True,108514926
+28326640,SMU Extended Stay Mini Guest House/ Pet Friendly,District 14,32.83999,-96.76466,Entire guesthouse,Entire home/apt,1,,1.0,42.0,15,1125,4.63,4.5,4.38,4.5,4.5,5.0,4.88,False,212339137
+28965635,Placed in the heart of Dallas Uptown/Downtown ,District 14,32.80147,-96.79097,Entire rental unit,Entire home/apt,6,2.0,3.0,200.0,20,120,5.0,5.0,4.5,5.0,5.0,5.0,4.5,True,108514926
+29335317,{Trendy City Flat}  ARBORETUM TICKETS INCLUDED,District 14,32.82215,-96.76452,Entire rental unit,Entire home/apt,5,1.0,2.0,81.0,1,365,4.72,4.87,4.77,4.95,4.92,4.93,4.72,True,57933646
+29763915,1 Bedroom|King & Sofa Bed|Valet Parking|Walk Score 95/100|Downtown Dallas,District 2,32.77908,-96.79595,Entire rental unit,Entire home/apt,4,1.0,2.0,174.0,1,365,4.58,4.65,4.69,4.58,4.71,4.81,4.73,True,305350123
+29877961,Extend your Stay!,District 14,32.80174,-96.7678,Entire guesthouse,Entire home/apt,2,,1.0,180.0,30,365,5.0,5.0,4.93,4.96,5.0,5.0,5.0,True,224682463
+30105958,Uptown West Village Beautiful Amazing Location,District 14,32.80917,-96.79874,Entire rental unit,Entire home/apt,4,1.0,2.0,155.0,5,365,,,,,,,,True,112593570
+30199883,Tiny House in Wooded Backyard Near Bishop Arts District,District 1,32.74645,-96.85374,Tiny home,Entire home/apt,3,,1.0,73.0,2,1125,4.97,4.96,4.97,4.97,4.96,4.83,4.85,True,5999198
+30445206,Vintage Apartment within a Historical Building.,District 2,32.79459,-96.7664,Entire rental unit,Entire home/apt,4,1.0,1.0,75.0,3,1125,4.76,4.92,4.96,5.0,4.96,4.64,4.6,False,37953969
+31202145,MEDICAL DISTRICT / Market Center / DART,District 2,32.81247,-96.83045,Entire rental unit,Entire home/apt,4,1.0,2.0,100.0,9,90,,,,,,,,True,108514926
+31339678, Luxury Apartment Uptown Dallas/West Village ,District 14,32.8063,-96.79765,Entire rental unit,Entire home/apt,3,1.0,2.0,120.0,7,220,,,,,,,,True,108514926
+31829202,Great View!,District 9,32.85735,-96.70877,Entire home,Entire home/apt,10,4.0,8.0,307.0,2,30,4.98,4.96,4.94,5.0,5.0,4.96,4.9,False,174760780
+32129582,Guesthouse - East Dallas #JuniusHeightsHideaway,District 14,32.80701,-96.7479,Entire guesthouse,Entire home/apt,4,1.0,2.0,124.0,2,1125,5.0,5.0,4.99,4.99,5.0,4.97,4.99,False,34613171
+32711369,KING BED | FREE PARKING | GYM | POOL,District 14,32.81331,-96.7916,Entire rental unit,Entire home/apt,4,1.0,1.0,120.0,28,320,5.0,5.0,5.0,5.0,5.0,5.0,5.0,False,211225279
+32805335,Uber Chic Luxury In the heart of Lower Greenville!,District 14,32.81532,-96.76544,Entire home,Entire home/apt,12,5.0,5.0,950.0,30,1000,4.73,4.89,4.64,4.95,4.95,4.96,4.67,False,193512222
+32848175,Luxury Modern Living in Best of Uptown!,District 2,32.81373,-96.78474,Entire townhouse,Entire home/apt,6,2.0,3.0,192.0,2,365,4.86,4.9,4.85,4.91,4.89,4.87,4.78,False,41923076
+32899521,Driem House | Chic Uptown cottage with yard,District 14,32.7975,-96.79987,Entire bungalow,Entire home/apt,3,1.0,1.0,137.0,4,1125,4.69,4.71,4.58,4.96,4.78,5.0,4.69,True,430957331
+33025336,SPECIAL PRICE 2/2 - Business / Corporate  Traveler,District 14,32.80232,-96.79104,Entire rental unit,Entire home/apt,6,2.0,2.0,185.0,3,365,4.5,5.0,5.0,4.5,4.5,5.0,5.0,True,112593570
+33173727,East Dallas/White Rock Lake Space EXTENDED WELCOME,District 14,32.84851,-96.76755,Private room in townhouse,Private room,1,1.0,1.0,42.0,30,1125,4.0,4.0,4.2,4.8,3.8,5.0,4.0,False,212339137
+33474953,"Charm, Comfort and Hospitality in Old East Dallas",District 14,32.80394,-96.75411,Private room in home,Private room,3,1.0,2.0,42.0,1,7,4.92,4.97,4.86,4.97,4.96,4.95,4.94,True,252220275
+33556734,Classy Oak Lawn Dallas Apartment-Central Location!,District 2,32.81801,-96.82088,Entire rental unit,Entire home/apt,6,1.0,1.0,89.0,1,1125,4.91,4.92,4.95,4.94,4.99,4.88,4.9,True,252855979
+33693143,Central location,District 11,32.92802,-96.77327,Entire home,Entire home/apt,8,4.0,5.0,209.0,2,28,4.71,4.82,4.82,4.82,4.94,4.88,4.59,True,253980493
+33712238,Jurny | Convention Center | Contactless 2 Bedroom in Downtown,District 2,32.77858,-96.7955,Entire rental unit,Entire home/apt,4,2.0,2.0,158.0,1,1125,4.67,4.7,4.81,4.69,4.81,4.76,4.69,True,23459662
+33712387,Jurny | Convention Center | Self Check - In 1 Bedroom in Downtown,District 2,32.77847,-96.79657,Entire rental unit,Entire home/apt,2,1.0,1.0,104.0,1,1125,4.58,4.75,4.68,4.82,4.87,4.6,4.67,True,23459662
+33716485,Jurny | Convention Center | Touchless 1bd Near Hotspots,District 2,32.77809,-96.79621,Entire rental unit,Entire home/apt,2,1.0,1.0,109.0,1,1125,4.73,4.81,4.75,4.76,4.73,4.73,4.74,True,23459662
+33931835, F.A.D - North Dallas Furnished Apartments ,District 13,32.88262,-96.7649,Entire rental unit,Entire home/apt,3,1.0,1.0,120.0,20,90,,,,,,,,True,108514926
+33931949, F.A.D - North Dallas Furnished Apartments ,District 13,32.88484,-96.76396,Entire rental unit,Entire home/apt,3,1.0,1.0,100.0,12,90,,,,,,,,True,108514926
+34029623,Spacious Loft  W/ FREE VALET PARKING,District 14,32.77796,-96.80163,Entire rental unit,Entire home/apt,3,1.0,1.0,121.0,2,365,4.3,4.4,4.28,4.4,4.55,4.65,4.32,True,627117
+34130447,"Sky Deck Uptown Living At Its Best, Wifi & Netflix",District 14,32.79681,-96.79767,Entire rental unit,Entire home/apt,4,1.0,1.0,129.0,1,1125,4.74,4.67,4.67,4.4,4.67,4.9,4.76,True,257704044
+34480239,Dreams,District 7,32.81252,-96.68236,Private room in rental unit,Private room,1,1.0,1.0,38.0,7,21,4.0,4.0,4.0,5.0,3.5,4.0,4.0,False,257918062
+34685330,Modern Fully Furnished TOWNHOME-DALLAS UPTOWN,District 2,32.80439,-96.77823,Entire townhouse,Entire home/apt,5,2.0,3.0,170.0,14,999,4.58,4.68,4.47,4.68,4.95,4.53,4.47,True,89596337
+34751937,"Women's Dorm, Bed #B1 (Bottom Bunk) for Nomads",District 1,32.7521,-96.82672,Shared room in home,Shared room,1,1.0,1.0,26.0,1,365,4.73,4.92,4.46,4.96,4.96,4.81,4.92,False,233729173
+35032397,"Stylish Loft, Sleeps 4, near Downtown and Uptown!",District 2,32.81001,-96.81512,Entire condo,Entire home/apt,4,1.0,2.0,93.0,2,370,4.7,4.6,4.7,4.97,4.9,4.8,4.57,True,20542691
+35682076, NEW DALLAS DOWNTOWNAACenterVictory Park,District 2,32.79193,-96.80804,Entire rental unit,Entire home/apt,4,,2.0,1026.0,365,1125,4.82,4.9,4.94,4.46,4.92,4.94,4.84,False,45231444
+35713116,"Private, Stylish Historic Home Near Bishop Arts",District 1,32.7448,-96.84551,Entire home,Entire home/apt,7,4.0,5.0,200.0,3,1125,5.0,5.0,5.0,5.0,5.0,4.8,5.0,False,26913292
+35832752,Best Central Dallas Location,District 14,32.81826,-96.79788,Entire home,Entire home/apt,4,2.0,2.0,196.0,2,30,4.77,4.83,4.77,5.0,4.93,5.0,4.8,False,31348177
+35833754,Big Comfy Apt Downtown Dallas/Free Valet (RS218),District 2,32.7776,-96.7954,Entire rental unit,Entire home/apt,4,1.0,2.0,180.0,30,365,4.91,4.91,4.91,4.73,4.64,5.0,5.0,True,156543716
+36301282,North Oak/West Dallas/Trinity Groves/Downtown ,District 1,32.7468,-96.84662,Entire rental unit,Entire home/apt,4,1.0,2.0,120.0,40,320,5.0,5.0,5.0,5.0,5.0,5.0,5.0,False,108514926
+36608116,Big Comfy Apt Downtown Dallas/Valet Parking (630),District 2,32.7776,-96.7954,Entire rental unit,Entire home/apt,4,1.0,2.0,216.0,1,365,5.0,5.0,5.0,5.0,5.0,5.0,5.0,False,156543716
+36932012,Big 4 Bed 2 Bath with a pool. Close to down town,District 4,32.70284,-96.84665,Entire home,Entire home/apt,8,4.0,7.0,200.0,30,1125,4.52,4.81,4.38,5.0,5.0,4.48,4.76,False,57564663
+37118208,The Guild Victory Park | Katy Trail | Studio,District 2,32.79443,-96.81341,Entire serviced apartment,Entire home/apt,2,,1.0,249.0,1,28,4.8,5.0,4.84,4.96,4.96,5.0,4.68,True,265467659
+37125793,The Unique Deep Ellum/Lower Greenville LightShow 2,District 2,32.80574,-96.77225,Entire rental unit,Entire home/apt,3,1.0,1.0,86.0,1,16,4.71,4.81,4.63,4.9,4.91,4.68,4.72,True,51377763
+37424426,"Spacious Townhome near Midtown, i635, and Tollway!",District 11,32.93071,-96.796,Entire condo,Entire home/apt,4,2.0,2.0,114.0,30,370,4.89,4.94,4.89,4.78,5.0,5.0,4.94,True,20542691
+37456503,Downtown City Pink Apt with FREE parking.,District 14,32.78003,-96.7967,Entire rental unit,Entire home/apt,3,1.0,1.0,158.0,1,1125,4.74,4.9,4.74,4.65,4.97,4.97,4.81,True,171284899
+37466304,#Blue Room | Social House in Dallas,District 10,32.923,-96.73764,Private room in townhouse,Private room,2,1.0,1.0,49.0,10,1125,4.9,4.7,4.9,5.0,4.9,4.7,4.85,False,4450257
+37522691,Shabby Chic Meets City + Pool,District 14,32.82747,-96.76889,Entire home,Entire home/apt,8,3.0,4.0,399.0,2,1125,4.92,4.96,4.89,5.0,4.97,4.99,4.89,False,201156613
+37996938,Clean & Cozy Guest House in Heart of Bishop Arts,District 1,32.74664,-96.83412,Private room in home,Private room,2,,1.0,51.0,2,29,4.86,4.88,4.85,4.93,5.0,4.74,4.89,False,274812608
+38177738,"Deep Ellum Hostel, 8-Bed Coed Shared Dorm",District 2,32.78602,-96.78252,Room in hostel,Hotel room,1,1.0,1.0,39.0,1,365,4.39,4.56,4.42,4.77,4.65,4.68,4.64,True,201420392
+38236353,2 Bedrooms (King & Queen) and 1 bath near Dallas!,District 2,32.82347,-96.82235,Entire home,Entire home/apt,6,2.0,2.0,186.0,2,1125,4.65,4.73,4.54,4.92,4.92,4.85,4.5,False,274906117
+38414331,The Zila - Western room (#2) - Smart Lock,District 7,32.77048,-96.76806,Private room in townhouse,Private room,2,1.0,1.0,51.0,2,1125,4.5,4.64,4.44,4.64,4.69,4.36,4.53,True,195512125
+38619209,Kessler Park Treehouse -  4.99 STAR,District 1,32.7651,-96.83965,Entire home,Entire home/apt,8,3.0,3.0,532.0,2,1125,4.99,4.99,4.96,4.98,4.99,4.99,4.92,False,43422
+38907909,"Spacious Room, Pet-Friendly, Perfect Location",District 2,32.81119,-96.7837,Private room in townhouse,Private room,2,1.0,1.0,50.0,1,1125,4.89,4.93,4.88,4.97,4.96,4.93,4.94,True,2791533
+38920722,Modern 8 Bed Home W/Gameroom Mins to DT/Greenville,District 2,32.80648,-96.77897,Entire townhouse,Entire home/apt,12,4.0,8.0,325.0,2,180,4.61,4.82,4.4,4.89,4.69,4.73,4.61,False,39191637
+38952220,Modern 8 Bed Home W/Game Room Minutes to Uptown/DT,District 2,32.80712,-96.77956,Entire townhouse,Entire home/apt,12,4.0,8.0,316.0,2,180,4.61,4.64,4.49,4.88,4.67,4.8,4.7,False,39191637
+39036451,"Historic 2 bd home, private, close to Deep Ellum",District 14,32.80252,-96.75976,Entire home,Entire home/apt,8,2.0,2.0,111.0,2,1125,4.72,4.77,4.89,4.96,4.88,4.74,4.77,True,70557587
+39486764,Stunning Kessler Park Dallas Estate,District 1,32.75895,-96.84261,Entire home,Entire home/apt,6,3.0,3.0,595.0,4,1125,5.0,5.0,5.0,5.0,5.0,5.0,5.0,False,15583683
+39524941,"Great location, Walk score is 96! , FREE PARKING",District 14,32.78157,-96.79943,Entire rental unit,Entire home/apt,4,1.0,2.0,120.0,20,220,,,,,,,,True,112593570
+39627169,4 bedroom Family Entertainer,District 10,32.916,-96.71472,Entire home,Entire home/apt,8,4.0,6.0,328.0,4,60,4.66,4.75,4.57,4.84,4.93,4.64,4.43,True,30375815
+39695320,Dallas Corporate Stays 1 Bdr Apt with FreeValet/Pool/Gym/Kitchen/Laundry/Cable/Wifi in Downtown,District 2,32.77796,-96.7955,Entire rental unit,Entire home/apt,4,1.0,2.0,100.0,1,365,,,,,,,,True,156543716
+40001752,Private Guest Suite minutes from Downtown Dallas,District 7,32.79704,-96.71351,Entire guest suite,Entire home/apt,2,1.0,1.0,86.0,1,1125,4.96,4.99,4.96,4.98,4.98,4.91,4.97,False,37942010
+40016913,SPECIAL PRICE 2BR/2BT Super Convenient ZIP 75204,District 2,32.81366,-96.78674,Entire rental unit,Entire home/apt,8,2.0,5.0,200.0,12,90,5.0,5.0,5.0,5.0,5.0,5.0,5.0,True,112593570
+40178004,REMODELED GEM & FAMILY FAVORITE **WITH MAN CAVE 2/2,District 14,32.810955,-96.755112,Entire home,Entire home/apt,6,2.0,4.0,295.0,2,365,5.0,5.0,5.0,4.88,5.0,5.0,4.88,False,35342054
+40351163,Value & cozy stay in upscale house by UTD-B,District 12,32.99562,-96.75953,Private room in home,Private room,1,1.0,1.0,37.0,32,360,5.0,4.82,5.0,5.0,4.91,4.91,4.82,True,216674639
+40757727,Stylish & Cozy - Lower Greenville!,District 14,32.81134,-96.7637,Entire rental unit,Entire home/apt,2,1.0,1.0,78.0,14,1125,4.58,4.77,4.68,5.0,4.55,4.94,4.61,True,43042344
+40875038,Hip Modern Loft with Free Coworking!,District 2,32.77416,-96.78172,Entire loft,Entire home/apt,3,,1.0,86.0,4,1125,4.71,4.82,4.79,4.86,4.89,4.43,4.68,False,91195494
+41006263,L Trending Topic,District 2,32.78329,-96.78207,Entire place,Entire home/apt,3,,2.0,199.0,2,1125,5.0,5.0,5.0,5.0,5.0,5.0,5.0,True,68226084
+41067582,1 Bedroom|King & Sofa Bed|Valet Parking|Walk Score 95/100|Downtown Dallas,District 2,32.77901,-96.79603,Entire rental unit,Entire home/apt,4,1.0,2.0,127.0,1,365,4.0,4.5,4.0,5.0,3.0,4.0,4.0,True,305350123
+41158617,Lower Greenville Retreat,District 14,32.80907,-96.76798,Entire rental unit,Entire home/apt,4,1.0,2.0,95.0,1,1125,4.76,4.95,4.86,4.86,4.95,5.0,4.86,False,64242304
+41267772,Exquisite 3 lvl townhome in oak lawn/turtle creek,District 14,32.81282,-96.80524,Entire townhouse,Entire home/apt,7,3.0,3.0,284.0,1,500,4.97,4.98,5.0,4.9,4.97,5.0,4.9,False,37273366
+41297068,Charming home in Uptown! Walk to everything!,District 14,32.79604,-96.80172,Entire home,Entire home/apt,2,1.0,1.0,110.0,31,1125,5.0,5.0,4.96,5.0,5.0,5.0,4.87,False,7271872
+41381698,Nice place in North Dallas.,District 11,32.9376,-96.80775,Entire condo,Entire home/apt,4,1.0,2.0,100.0,5,1125,4.52,4.71,4.81,4.95,4.95,4.52,4.33,True,52127894
+41504204,Lux ers Loft Downtown Dallas Design Dist,District 6,32.79881,-96.81965,Private room in loft,Private room,2,1.0,1.0,99.0,1,1125,4.64,4.68,4.46,4.86,4.82,4.93,4.71,True,104412812
+41661040,"Walk Score is 96! , FREE PARKING,  AIRBNB DOWNTOWN",District 14,32.78369,-96.79865,Entire rental unit,Entire home/apt,4,1.0,2.0,120.0,40,220,,,,,,,,True,108514926
+41668940,Master Bedroom Queen-Private Room near Fair Park,District 7,32.77093,-96.75094,Private room in home,Private room,2,1.0,1.0,40.0,1,1125,4.78,4.81,4.96,4.85,4.96,4.48,4.85,True,328218139
+41750420, Rare Vibrant Hidden Gem - 2 Mins from Downtown ,District 2,32.76811,-96.7877,Entire rental unit,Entire home/apt,4,1.0,1.0,106.0,2,1125,4.94,5.0,5.0,5.0,5.0,5.0,4.94,True,197277264
+41871110,Irresistible 2Bed 2Bath Dallas loft + King Bed,District 14,32.81058,-96.80702,Entire loft,Entire home/apt,6,2.0,3.0,221.0,3,1125,4.75,4.94,4.94,4.69,4.88,4.88,4.75,True,627117
+41873571,"""Forest Room"" in Hostel Style Co-living House",District 1,32.75225,-96.82504,Private room in home,Private room,1,1.0,1.0,38.0,1,365,4.77,4.8,4.6,4.83,4.89,4.89,4.83,False,233729173
+41960359,Historic District Carriage House centrally located,District 2,32.80113,-96.77518,Entire guesthouse,Entire home/apt,2,1.0,1.0,90.0,1,1125,4.78,4.76,4.9,4.9,5.0,4.76,4.7,False,3868096
+42133427,Relaxing bottom bunk minutes away from  UTSMC #7,District 2,32.83128,-96.84882,Shared room in home,Shared room,1,1.0,1.0,20.0,1,1121,4.41,4.53,4.44,4.5,4.47,4.44,4.41,True,312876969
+42354447,Cozy Oak Lawn Suite,District 14,32.80947,-96.80661,Entire rental unit,Entire home/apt,3,1.0,1.0,95.0,3,1125,4.53,4.76,4.59,4.56,4.53,4.76,4.62,True,627117
+42407146,Minutes to Downtown Dallas!,District 10,32.91283,-96.76227,Private room in home,Private room,1,1.0,1.0,60.0,31,365,5.0,5.0,5.0,5.0,5.0,5.0,5.0,False,12587912
+42413500,Cozy Apartment Living Room Space with Shared Room,District 12,32.98646,-96.77809,Private room in rental unit,Private room,1,,,50.0,1,3,,,,,,,,False,337608486
+42453377,"Large Apt, Comfortable King Bed, Fully Stocked",District 14,32.80377,-96.75657,Entire rental unit,Entire home/apt,6,1.0,3.0,95.0,1,1125,4.9,4.9,4.81,5.0,5.0,4.86,4.86,True,43384036
+42511544,Nice private room,District 2,32.82572,-96.82342,Private room in rental unit,Private room,1,1.0,,52.0,1,1125,,,,,,,,False,338548973
+42515753,Corporate Apt High Rise | 2 Bedrooms 3 beds | Parking | Washer Dryer,District 2,32.7965,-96.81504,Entire rental unit,Entire home/apt,6,2.0,3.0,177.0,21,120,3.75,4.75,3.5,4.5,4.25,5.0,4.75,True,188733636
+42624343,"King Bed, HighRise, Balcony, City Skyline View! ",District 14,32.78114,-96.80048,Entire rental unit,Entire home/apt,2,1.0,1.0,212.0,1,365,4.75,4.72,4.65,4.82,4.81,4.84,4.67,False,30912523
+42661669,Spacious High Ceiling Home @ Med Center| King Bed,District 2,32.82769,-96.84971,Entire condo,Entire home/apt,4,1.0,,135.0,1,1125,4.55,4.64,4.91,4.55,4.73,4.82,4.64,True,339857476
+42823726,West Dallas/Trinity Groves/Downtown - KING BED,District 6,32.77342,-96.82899,Entire rental unit,Entire home/apt,4,1.0,2.0,100.0,58,220,,,,,,,,True,112593570
+42852818,The Coziest corner !!!,District 4,32.71958,-96.79171,Private room in home,Private room,2,4.0,1.0,30.0,3,1125,,,,,,,,False,341247066
+42912177,AMAZING PRICE West-Village Walk Anywhere,District 14,32.81035,-96.79571,Entire rental unit,Entire home/apt,4,1.0,2.0,120.0,40,365,,,,,,,,True,112593570
+42937958,POSH PARK CITIES BUNGALOW with 4BR/3BA,District 13,32.83613,-96.82084,Entire home,Entire home/apt,8,4.0,5.0,256.0,2,1125,4.86,4.96,4.89,4.89,4.75,4.64,4.75,True,243684656
+43062447,"Small Cozy bedroom near Downtown, Deep Ellum,",District 2,32.79409,-96.75752,Private room in home,Private room,2,1.0,1.0,43.0,1,1125,4.85,4.92,4.85,5.0,5.0,4.92,4.85,True,249960325
+43106309,Industrial Lounge** Inquire for Hourly  Pricing,District 6,32.88137,-96.89768,Train,Entire home/apt,16,3.0,3.0,89.0,1,7,4.17,4.24,4.28,4.31,4.0,3.28,4.0,False,48908629
+43181331,Ozone  eaned igKinged Near Deep Ellum,District 14,32.80019,-96.76751,Private room in rental unit,Private room,2,1.0,1.0,150.0,1,28,,,,,,,,False,326354720
+43220423,"N. Dallas  2 Bed  2.5 Bath condo near Addison, TX",District 11,32.95528,-96.79977,Entire condo,Entire home/apt,4,2.0,2.0,68.0,14,45,4.62,4.62,4.62,4.57,4.62,4.52,4.57,False,305525981
+43264203,Ladies love Cute house next to love field airport,District 6,32.87768,-96.8529,Private room in home,Private room,2,1.0,1.0,43.0,1,1125,5.0,5.0,4.78,5.0,5.0,5.0,5.0,False,50600546
+43294595,Grecco King Suite w/ Private Bathroom,District 1,32.72329,-96.86527,Private room in home,Private room,2,1.0,1.0,53.0,1,1125,4.84,4.92,4.91,4.96,4.87,4.8,4.87,False,46810374
+43358463,The Dallas Native  ARBORETUM TICKETS INCLUDED,District 14,32.82216,-96.76314,Entire rental unit,Entire home/apt,4,1.0,2.0,79.0,1,365,4.68,4.82,4.86,4.98,4.94,4.93,4.74,True,10901678
+43679589,Lux 2 bed 2 bath near Downtown,District 14,32.80205,-96.76669,Entire rental unit,Entire home/apt,4,2.0,2.0,158.0,19,365,4.5,4.67,4.67,4.83,4.5,4.17,4.5,True,23916014
+43857726,2 beds 1 bedroom apartment | Parking | Washer n dryer,District 2,32.77674,-96.79641,Entire rental unit,Entire home/apt,4,1.0,2.0,93.0,1,120,3.89,4.22,4.17,4.22,4.22,4.5,4.06,True,264404309
+44050505,Lower Greenville Hideaway,District 14,32.80893,-96.76954,Entire rental unit,Entire home/apt,4,1.0,2.0,120.0,1,1125,4.8,4.93,4.95,4.86,4.82,4.75,4.64,False,64242304
+44064232,Convenient Cottage Absolutely NO PARTIES & NO PETS,District 2,32.79346,-96.7736,Entire home,Entire home/apt,6,3.0,3.0,200.0,3,1125,4.36,4.5,4.5,4.7,4.7,4.7,4.3,True,29523101
+44359340,1 Bedroom|Queen & Sofa Bed|Valet Parking|Walk Score 95/100|Downtown Dallas,District 2,32.77869,-96.79618,Entire rental unit,Entire home/apt,4,1.0,2.0,123.0,1,365,,,,,,,,True,305350123
+44479506,North Central Dallas,District 11,32.88584,-96.7735,Entire condo,Entire home/apt,2,1.0,1.0,105.0,2,1125,4.63,4.94,4.81,4.75,4.56,4.88,4.75,False,211824389
+44615439,Historic Home close to Downtown and Deep Ellum,District 7,32.76889,-96.77527,Entire home,Entire home/apt,6,3.0,3.0,158.0,5,1125,4.77,4.85,4.5,5.0,5.0,4.5,4.81,False,104786619
+45035242,Symphony Lane,District 7,32.78918,-96.69703,Entire home,Entire home/apt,6,3.0,3.0,275.0,1,31,4.89,4.96,5.0,4.96,4.91,4.87,4.87,False,280113126
+45057587,"2 Bedroom, 2 Story Condo near the Galleria",District 11,32.94799,-96.82206,Entire condo,Entire home/apt,5,2.0,2.0,131.0,7,1125,2.5,2.5,2.0,3.0,3.0,4.0,2.5,False,87399308
+45076636,High-Rise Luxury Stay (Downtown Dallas),District 14,32.78218,-96.79975,Entire rental unit,Entire home/apt,4,1.0,1.0,175.0,3,1125,4.58,4.42,4.58,4.33,4.42,4.92,4.67,False,359532791
+45151760, Amazing Spot Lower Greenville Fully Sanitized ,District 2,32.80592,-96.77232,Entire rental unit,Entire home/apt,3,1.0,2.0,93.0,1,1125,4.68,4.83,4.8,4.88,4.93,4.5,4.57,True,3630040
+45151935,The Captain's Room in Dallas! Solo Travelers Only!,District 1,32.75526,-96.81312,Private room in home,Private room,1,1.0,1.0,52.0,1,28,4.75,4.85,4.86,4.88,4.79,4.64,4.86,True,59509385
+45426149,Airy. Smart. Unique. 3BD/2B in Scenic Dallas Spot.,District 3,32.64148,-96.96529,Entire home,Entire home/apt,6,3.0,3.0,259.0,4,30,5.0,5.0,4.93,5.0,5.0,5.0,5.0,False,12510149
+45468398,The Dallas Vibe | ARBORETUM TICKETS INCLUDED,District 2,32.80683,-96.77929,Entire rental unit,Entire home/apt,4,1.0,2.0,81.0,1,365,4.68,4.77,4.71,4.93,4.9,4.73,4.73,True,57933646
+45468826,Art House | Yard | Edge of Highland Park,District 14,32.8142,-96.80567,Entire home,Entire home/apt,5,2.0,3.0,200.0,5,365,4.58,4.63,4.63,4.79,4.68,4.95,4.37,True,430957331
+45581904,Bardo Lofts Studio Unit 108,District 1,32.75169,-96.82452,Entire rental unit,Entire home/apt,3,,1.0,74.0,1,90,4.68,4.87,4.77,4.85,4.64,4.85,4.73,True,368552150
+45700134,"Shared CoEd Home -Room 1, single Bed#8",District 2,32.84825,-96.83128,Shared room in home,Shared room,1,1.0,1.0,28.0,1,1125,4.44,4.52,4.36,4.52,4.4,4.48,4.48,False,370176945
+45739244,Gorgeous 1bed Uptown/Downtown Dallas Free parking,District 14,32.80298,-96.79156,Entire rental unit,Entire home/apt,4,1.0,2.0,108.0,1,30,4.6,4.76,4.64,4.82,4.92,4.52,4.54,False,369431523
+45752491,Luxury Boutique Living near Uptown,District 14,32.8,-96.76861,Entire rental unit,Entire home/apt,2,1.0,1.0,143.0,19,365,4.83,5.0,5.0,5.0,4.83,5.0,5.0,False,23916014
+45802744,Bishop Arts District Apartment,District 1,32.75001,-96.84026,Private room in serviced apartment,Private room,2,1.0,1.0,47.0,1,7,,,,,,,,False,371315598
+46012526,The Urban Nook | ARBORETUM TICKETS INCLUDED,District 2,32.80659,-96.77955,Entire rental unit,Entire home/apt,4,1.0,2.0,81.0,1,365,4.68,4.79,4.86,4.92,4.89,4.74,4.8,True,57933646
+46025353,A place to call home | 1BR in Dallas,District 14,32.78934,-96.78963,Entire serviced apartment,Entire home/apt,3,1.0,1.0,186.0,30,365,,,,,,,,True,358058606
+46035762,Convenience is Key.  Now with a deck!,District 6,32.87714,-96.86936,Entire home,Entire home/apt,9,3.0,5.0,142.0,2,1125,4.59,4.58,4.48,4.82,4.87,4.61,4.55,True,182823901
+46100829,JUST LISTED! Completely Renovated Modern City Loft,District 14,32.814,-96.75799,Entire loft,Entire home/apt,2,1.0,1.0,109.0,30,1125,5.0,5.0,5.0,5.0,5.0,4.83,4.83,False,300807248
+46251466,North Dallas 3/2/2 near 635 and 75 #2,District 11,32.92942,-96.76619,Entire home,Entire home/apt,10,3.0,6.0,228.0,60,1125,4.72,4.72,4.67,4.94,4.67,4.44,4.72,False,5790940
+46375023,"Loft style, pet friendly studio/ Fabulous location",District 13,32.85333,-96.83632,Entire guest suite,Entire home/apt,2,1.0,,147.0,6,365,5.0,5.0,4.67,5.0,5.0,4.67,4.33,False,40907479
+46488969,Mid-Century Modern Spacious Dallas Townhome,District 13,32.8744,-96.75844,Entire townhouse,Entire home/apt,8,3.0,5.0,207.0,2,1125,4.57,4.74,4.4,4.72,4.85,4.38,4.62,False,168382649
+46521760,8 Plus Simple Spacious Extended stay,District 7,32.78897,-96.69545,Entire home,Entire home/apt,8,4.0,4.0,299.0,7,1125,4.86,4.86,4.86,5.0,5.0,5.0,4.86,False,35493459
+46581765,GAME OF THRONES | 2 BD/2 BR | FAMILY FRIENDLY | KING SUITE,District 14,32.82604,-96.78519,Entire rental unit,Entire home/apt,5,2.0,3.0,145.0,1,1125,4.87,4.92,4.94,4.89,4.95,4.75,4.81,False,157425268
+46620137,Bishop Arts Lofts Unit 6,District 1,32.7492,-96.82822,Entire rental unit,Entire home/apt,6,2.0,4.0,126.0,1,365,4.71,4.87,4.8,4.91,4.84,4.94,4.74,False,373957214
+46714451,AMAZING 2-BED|2-BATH TOWNHOME IN PERFECT LOCATION,District 2,32.81376,-96.77512,Entire townhouse,Entire home/apt,4,2.0,2.0,158.0,1,1125,4.95,4.97,4.94,4.97,4.94,4.97,4.9,False,304582478
+47122222,CozySuites | Best Sky Pool in Dallas | 1BR,District 14,32.78048,-96.7994,Entire rental unit,Entire home/apt,3,1.0,2.0,161.0,2,180,4.54,4.66,4.6,4.69,4.74,4.63,4.49,False,372592509
+47125444,"2019 Luxurious, Spacious and Prestigious Location",District 13,32.85322,-96.82559,Entire home,Entire home/apt,15,6.0,10.0,510.0,2,365,4.89,5.0,5.0,5.0,5.0,5.0,5.0,True,331860168
+47238756,Hamilton House - Stylish Retreat w/Rooftop Patio,District 14,32.81837,-96.81011,Entire townhouse,Entire home/apt,7,3.0,7.0,179.0,3,1125,4.78,4.93,4.63,4.94,4.9,4.92,4.85,True,355241657
+47239953,Two Full Stylish Townhomes w/Rooftop Patios,District 14,32.81853,-96.81181,Entire townhouse,Entire home/apt,14,6.0,10.0,843.0,3,1125,5.0,5.0,5.0,5.0,5.0,5.0,5.0,True,355241657
+47301701,Bardo Lofts Suite 305,District 1,32.75136,-96.8257,Entire rental unit,Entire home/apt,3,1.0,1.0,91.0,1,60,4.7,4.81,4.64,4.78,4.79,4.72,4.69,True,373957214
+47395722,Refreshing 1 Bed 1 Bath Getaway!,District 12,32.99179,-96.84733,Entire rental unit,Entire home/apt,4,1.0,3.0,129.0,3,28,4.89,5.0,5.0,5.0,5.0,4.95,4.95,False,359214052
+47507582,Majestic Double Two Double Beds At Good Location,District 14,32.7844,-96.80275,Private room in bed and breakfast,Private room,2,1.0,2.0,488.0,1,365,,,,,,,,True,175128252
+47859085,The beast Place in Dallas Long and Short Stays,District 2,32.78722,-96.81035,Entire rental unit,Entire home/apt,3,1.0,1.0,200.0,3,360,,,,,,,,True,108514926
+47860228,Cozy uptown Freedom condo 204  USA  Dallas Texas,District 2,32.81258,-96.7787,Entire condo,Entire home/apt,3,1.0,1.0,80.0,30,365,5.0,5.0,5.0,5.0,5.0,5.0,5.0,False,20618407
+47874715,Dallas Gem 3 bedroom 2 bath,District 2,32.80858,-96.81453,Entire home,Entire home/apt,8,3.0,4.0,186.0,3,31,4.83,4.85,4.81,4.98,4.92,4.92,4.81,False,365165866
+47934816,Beautifully Remodeled Home - 10 min. to Downtown!,District 5,32.75541,-96.68066,Entire home,Entire home/apt,6,3.0,3.0,201.0,2,1125,4.48,4.81,4.38,4.86,4.95,4.57,4.76,True,43042344
+47941164,N. Dallas Updated  1 Bedroom Apartment,District 10,32.91429,-96.7369,Entire rental unit,Entire home/apt,2,1.0,1.0,71.0,28,1125,4.34,4.53,4.71,4.71,4.79,3.92,4.32,True,329464978
+47952916,"City OutsideTranquility Inside, TICKETS INCLUDED",District 2,32.80453,-96.78128,Entire rental unit,Entire home/apt,4,1.0,2.0,82.0,1,365,4.63,4.78,4.85,4.89,4.89,4.71,4.65,True,10901678
+48056142,"Heart of Dallas 1BR (pool, gym, free parking)",District 14,32.82465,-96.78644,Entire rental unit,Entire home/apt,4,1.0,1.0,106.0,1,29,4.9,4.93,4.95,4.98,4.93,4.98,4.8,False,119531958
+48226117,> POOL! Spacious House and Great Beds. 5 Bedrooms,District 12,32.97645,-96.78518,Entire home,Entire home/apt,16,5.0,6.0,449.0,31,180,5.0,5.0,5.0,5.0,5.0,5.0,5.0,False,2592721
+48249828, Junior Suite with Two Double Beds at  Dallas Tx,District 11,32.93059,-96.81835,Entire rental unit,Entire home/apt,4,1.0,2.0,499.0,1,365,4.65,4.8,4.68,4.72,4.69,4.76,4.6,True,389222640
+48334824,1BR King | Downtown Views | Free Valet Parking,District 2,32.77664,-96.79497,Entire rental unit,Entire home/apt,4,1.0,2.0,98.0,1,365,4.59,4.76,4.44,4.79,4.79,4.74,4.68,True,181794187
+48421068,The Escape @ Downtown Dallas Boutique Hotel,District 2,32.77183,-96.79478,Room in boutique hotel,Private room,2,1.0,1.0,450.0,1,7,,,,,,,,False,356412388
+48597823,Lux & Cozy @ Medical Center|Dwtwn |King-Size | 1BR,District 2,32.82579,-96.84991,Entire rental unit,Entire home/apt,4,1.0,2.0,130.0,1,1125,4.71,4.93,4.86,4.79,4.79,4.93,4.71,True,339857476
+48750747,Awesome Central Location - 2 bed - 2 bath - Pool!,District 2,32.81231,-96.8162,Entire condo,Entire home/apt,4,2.0,2.0,360.0,45,1125,4.67,4.83,4.33,4.83,5.0,4.83,4.67,False,9124824
+48776487,Bold 2BR 2BA w/ SKY POOL | CozySuites,District 14,32.7807,-96.79982,Entire rental unit,Entire home/apt,5,2.0,3.0,199.0,2,180,4.71,4.67,4.76,4.67,4.9,4.95,4.57,False,372592509
+48792858,CozySuites | TWO Modern Apartments | SKY POOL,District 14,32.78389,-96.80124,Entire rental unit,Entire home/apt,10,4.0,6.0,428.0,2,180,5.0,5.0,5.0,5.0,5.0,5.0,5.0,False,372592509
+48939528,Downtown Dallas NEW QUEEN BED NEAR EVERYTHING,District 14,32.80237,-96.79272,Entire rental unit,Entire home/apt,4,1.0,1.0,105.0,1,1125,4.23,4.36,4.27,4.41,4.55,4.5,4.14,False,372441585
+48996854,Texas Corporate Housing Solutions Apt,District 10,32.86921,-96.73768,Entire rental unit,Entire home/apt,3,1.0,2.0,82.0,1,365,4.17,4.25,3.92,4.33,4.33,4.42,4.0,True,297031604
+49041059,COZY DALLAS FARMERS MARKET GETAWAY,District 2,32.7762,-96.79014,Entire loft,Entire home/apt,3,1.0,1.0,98.0,2,100,4.69,4.84,4.85,4.71,4.76,4.85,4.79,False,288736110
+49045403,DoubleRoom|Downtown Dallas|Deep Ellum76416|,District 14,32.78064,-96.80341,Entire rental unit,Entire home/apt,4,2.0,4.0,209.0,2,1125,4.0,4.0,3.83,4.17,4.0,4.83,3.83,True,363376274
+49089644,King Bed - Close to Bishop Arts and  Uptown Trolly,District 1,32.74852,-96.82449,Entire rental unit,Entire home/apt,3,1.0,1.0,85.0,5,1125,3.21,3.21,3.79,4.36,3.79,3.54,3.18,True,43042344
+49234386,Black Box Stay - Renovated Style in Central Dallas,District 2,32.84371,-96.82416,Entire home,Entire home/apt,12,3.0,6.0,438.0,2,30,4.96,4.93,5.0,5.0,5.0,5.0,4.89,False,2273432
+49255409,MagnificentVilla - 15min to Downtown,District 9,32.85698,-96.70525,Entire home,Entire home/apt,6,3.0,3.0,400.0,4,30,4.91,5.0,4.86,5.0,5.0,4.86,4.91,False,166808692
+49336790,"Downtown Dallas Townhome with Rooftop 2 Bedroom - 2.5 Bathroom, Deep Ellum",District 14,32.78797,-96.78736,Entire townhouse,Entire home/apt,6,2.0,4.0,328.0,10,1125,5.0,4.86,5.0,5.0,4.86,5.0,4.57,False,230047966
+49357319,"Boutique, Luxury Living in historic neighborhood",District 2,32.79813,-96.77653,Entire rental unit,Entire home/apt,3,1.0,1.0,150.0,19,365,5.0,5.0,5.0,5.0,5.0,5.0,5.0,False,23916014
+49385217,Cozy 1 bedroom apartment,District 2,32.78055,-96.78773,Entire rental unit,Entire home/apt,3,1.0,1.0,83.0,1,7,4.91,4.96,4.89,4.77,4.94,4.94,4.89,True,251202352
+49385622,NEW BUILD by Dtwn Long Stay ready! Clean&Sanitized,District 7,32.75414,-96.76827,Private room in home,Private room,2,1.0,1.0,55.0,2,1125,5.0,4.92,5.0,5.0,5.0,4.67,4.92,False,395691209
+49405088,Walk Everywhere! 1BR Uptown Corner Unit | Gym+Pool,District 14,32.80544,-96.79641,Entire rental unit,Entire home/apt,4,1.0,2.0,138.0,5,365,4.89,4.95,4.95,5.0,4.89,5.0,4.95,False,372645485
+49416885,ROOM-Queen modern&unique house-quiet neighborhood,District 4,32.74676,-96.7964,Private room in home,Private room,2,1.0,1.0,97.0,1,1125,4.96,5.0,5.0,4.96,5.0,4.89,4.86,True,233346541
+49476362,The Deep Ellum Getaway,District 2,32.79652,-96.76559,Entire home,Entire home/apt,8,3.0,5.0,204.0,1,90,4.88,4.94,4.89,4.97,4.94,4.68,4.89,False,226511427
+49515243,Entire apartment Dallas /2mins from Galleria mall.,District 11,32.93804,-96.81646,Entire rental unit,Entire home/apt,3,1.0,1.0,104.0,1,1125,4.74,4.85,4.56,4.79,4.79,4.88,4.85,False,268450702
+49560134,modern home Near bishop arts.Urban 4 bedroom 4bath,District 1,32.74046,-96.83618,Entire home,Entire home/apt,10,4.0,4.0,186.0,2,21,4.67,4.76,4.81,4.81,4.9,4.62,4.67,False,364698941
+49563089,"Casa Azul  King  ,  Pool, Spa,  Dogs! ",District 14,32.818371,-96.78495,Entire home,Entire home/apt,8,2.0,4.0,415.0,2,60,5.0,5.0,5.0,5.0,5.0,4.97,5.0,False,47487405
+49571981,Luxe Queen  Studio Downtown Dallas,District 14,32.7807,-96.79403,Entire serviced apartment,Entire home/apt,2,,1.0,149.0,1,1125,3.0,3.0,3.0,3.0,2.0,3.0,2.0,False,399890413
+49639821,2 Bed | 2 Bath | Downtown | Free Valet Parking | # 4,District 2,32.77827,-96.79489,Entire rental unit,Entire home/apt,6,2.0,4.0,121.0,2,365,4.69,4.79,4.69,4.79,4.94,4.65,4.69,True,181794187
+49692108,Dallas Gem in Subdivision 15 mins from Deep Ellum!,District 8,32.66334,-96.79566,Entire home,Entire home/apt,10,3.0,5.0,208.0,1,1125,4.7,4.7,4.74,4.83,4.91,4.78,4.7,True,400797197
+49695415,Oasis of Uptown Dallas 2BR Free Parking/WIFI/Cable,District 14,32.80275,-96.79132,Entire rental unit,Entire home/apt,6,2.0,5.0,166.0,1,21,4.67,4.83,4.61,4.89,5.0,4.56,4.44,True,369431523
+49731456,Victory Park  Wifi Dedicated Workspace|Parking |Washer & Dryer,District 2,32.78743,-96.81005,Entire rental unit,Entire home/apt,4,1.0,2.0,128.0,30,365,5.0,5.0,5.0,3.0,5.0,5.0,5.0,True,264404309
+49777528,Safe haven,District 2,32.81127,-96.82083,Entire rental unit,Entire home/apt,2,1.0,1.0,70.0,7,365,3.0,2.0,3.0,5.0,3.5,1.5,3.5,False,374267464
+49817647,Stylish 1BR | Downtown Views from 8th floor | Free Valet Parking,District 2,32.77663,-96.79634,Entire rental unit,Entire home/apt,4,1.0,6.0,99.0,2,365,4.44,4.71,4.37,4.71,4.78,4.68,4.61,True,229096489
+49847275,Uptown - State Thomas Apartment,District 14,32.79376,-96.79633,Entire rental unit,Entire home/apt,2,1.0,1.0,150.0,30,365,,,,,,,,False,200229932
+49857294,Traditional Condo close to Galleria & Mid-Town,District 11,32.93454,-96.80476,Entire condo,Entire home/apt,2,1.0,1.0,75.0,29,365,,,,,,,,False,26438693
+49948525,Room in a Big modern home in the perfect location,District 4,32.72589,-96.78844,Private room in home,Private room,1,1.0,2.0,42.0,30,90,4.44,4.38,4.31,4.69,4.31,4.19,4.44,True,77165580
+50009070,The heart of deep Ellum..,District 2,32.787,-96.78063,Entire loft,Entire home/apt,3,1.0,1.0,282.0,1,14,5.0,5.0,5.0,3.0,5.0,5.0,3.0,False,389203002
+50021642,Dallas Apartment 2Bd 2Ba Luxury Living ,District 13,32.8943,-96.76602,Entire rental unit,Entire home/apt,6,2.0,2.0,199.0,1,1125,4.81,4.81,4.89,4.63,4.93,4.89,4.85,False,117678815
+50037846,Davids little hideaway,District 8,32.68011,-96.60883,Camper/RV,Entire home/apt,2,1.0,1.0,120.0,1,3,,,,,,,,False,374383934
+50169622,Historic home **Walk to everything * Gated,District 2,32.81075,-96.81198,Entire home,Entire home/apt,12,4.0,5.0,414.0,2,1125,4.94,4.94,4.69,5.0,5.0,4.81,4.88,False,24462521
+50188065,Queen size bedroom. Vaccinated only!,District 12,33.00402,-96.79706,Private room in home,Private room,2,1.0,2.0,46.0,1,4,5.0,5.0,4.91,5.0,5.0,4.91,4.82,False,64684142
+50190133,Peaceful & Perfect location in N. Dallas,District 12,33.00261,-96.8033,Private room in home,Private room,1,1.0,1.0,35.0,3,1125,5.0,5.0,5.0,4.91,5.0,4.91,5.0,False,92346646
+50211212,Modern luxury apartment near downtown,District 2,32.80263,-96.77729,Entire rental unit,Entire home/apt,3,1.0,2.0,85.0,1,365,4.87,4.84,4.89,4.93,4.96,4.82,4.78,True,363191315
+50239167,Cozy twin bunk bed in Quiet North Dallas area #1,District 10,32.91512,-96.73054,Shared room in home,Shared room,1,1.0,,21.0,1,1125,4.83,4.75,4.83,4.92,4.92,5.0,4.83,True,312876969
+50414214,Lovely Spacious 2Kings Beds Dwntwn |Deep Ellum|,District 2,32.80603,-96.77336,Entire rental unit,Entire home/apt,6,1.0,3.0,113.0,1,1,3.88,3.88,3.88,4.0,3.88,3.63,3.75,True,339857476
+50546657,Everything you need | 2 BR in Dallas,District 14,32.80957,-96.79413,Entire serviced apartment,Entire home/apt,5,2.0,2.0,239.0,30,365,,,,,,,,True,358058606
+50546682,Everything you need | 2 BR in Dallas,District 14,32.80809,-96.79373,Entire serviced apartment,Entire home/apt,5,2.0,2.0,238.0,30,365,,,,,,,,True,358058606
+50559149,Homey 1BR Apt |Near DT|Deep Ellum|LowerGreenville,District 2,32.8028,-96.77121,Entire rental unit,Entire home/apt,4,1.0,2.0,106.0,1,1125,5.0,5.0,4.85,5.0,5.0,4.69,4.54,False,381968845
+50590475,Home Away From Home Oasis * Free Parking*Pool*GYM,District 11,32.92547,-96.77661,Entire rental unit,Entire home/apt,4,1.0,1.0,117.0,1,90,4.96,5.0,4.96,4.79,4.92,4.71,4.83,False,408744362
+50655752,*Spacious  Condo / Perfect for travel nurse.,District 3,32.69906,-96.89952,Entire condo,Entire home/apt,6,2.0,1.0,134.0,1,1125,,,,,,,,False,83327719
+50794422,LUXURIOUS MODERN Downtown Dallas. West Dallas Home,District 6,32.78439,-96.84645,Entire home,Entire home/apt,6,2.0,4.0,205.0,2,10,4.65,4.85,4.95,5.0,4.8,3.9,4.8,True,187435977
+51001996,Royale Blue Modern Home |Downtown |Deep Ellum |2BR,District 2,32.80642,-96.77445,Entire rental unit,Entire home/apt,8,2.0,4.0,203.0,1,1125,3.67,3.67,3.42,4.17,4.25,3.83,3.33,True,339857476
+51015479,Beautiful 1 BR King | | Downtown Dallas | Free Valet Parking,District 2,32.77694,-96.79502,Entire rental unit,Entire home/apt,4,2.0,3.0,100.0,2,365,4.69,4.72,4.75,4.75,4.88,4.84,4.78,True,229096489
+51070853,Inviting Condo by the Lake w/ Yard & Parking,District 14,32.81315,-96.73449,Entire condo,Entire home/apt,4,1.0,1.0,119.0,84,365,4.93,5.0,4.8,4.93,5.0,5.0,5.0,False,35999704
+51073259,New Listing!!! Modern Boho Chic Travelers Haven,District 11,32.88492,-96.77277,Entire condo,Entire home/apt,5,2.0,3.0,130.0,30,1125,4.5,4.5,5.0,5.0,5.0,5.0,4.5,True,356896257
+51214755,FAMILY FUN 2/2 Apt at White Rock Lake,District 9,32.83069,-96.70536,Entire rental unit,Entire home/apt,5,2.0,2.0,229.0,1,7,3.33,2.67,3.0,4.0,5.0,3.67,3.0,False,342240389
+51233733,Walk Everywhere! 1BR Uptown Corner Unit | Gym+Pool,District 14,32.80553,-96.79484,Entire rental unit,Entire home/apt,4,1.0,2.0,142.0,6,365,4.5,4.63,4.25,4.5,4.88,5.0,4.63,False,372645485
+51250562,5 Min From DownTown Luxury 1 Bedroom / King Suite,District 2,32.82742,-96.84745,Entire rental unit,Entire home/apt,4,1.0,1.0,130.0,1,150,4.86,5.0,4.71,4.57,5.0,5.0,5.0,True,414947138
+51264907,"Casa Indigo: Extended Stays, Pets OK, Fenced yard!",District 1,32.753323,-96.837936,Entire home,Entire home/apt,6,2.0,4.0,193.0,2,120,5.0,5.0,5.0,5.0,5.0,5.0,4.77,False,56393267
+51290725,Artistic STUDIO on Katy Trail in Uptown,District 14,32.80685,-96.80052,Entire rental unit,Entire home/apt,4,1.0,3.0,64.0,1,365,4.44,4.56,4.5,4.5,4.63,4.5,4.56,True,42083772
+51331484,"Luxury, Convenient, Private & Well Appointed",District 9,32.83179,-96.67449,Entire guesthouse,Entire home/apt,4,1.0,2.0,118.0,3,1125,5.0,5.0,4.88,5.0,5.0,4.88,5.0,False,415725578
+51409785,"5 mins to Baylor, Uptown, Downtown, Deep Ellum! | Pool, Parking + Gym",District 14,32.79189,-96.79398,Entire rental unit,Entire home/apt,5,2.0,3.0,177.0,5,365,4.83,4.67,4.67,4.83,5.0,4.83,4.5,False,384827082
+51486450,Highland Park Gem! ,District 14,32.82279,-96.81219,Entire condo,Entire home/apt,2,,1.0,69.0,2,1125,4.85,5.0,4.62,4.92,5.0,4.85,4.77,True,23755971
+51491560,SMART HOME MINS TO DOWNTOWN and BIG STORES,District 11,32.91775,-96.77395,Entire rental unit,Entire home/apt,3,1.0,1.0,131.0,2,7,4.84,4.95,4.84,4.95,4.95,4.95,4.79,False,311073918
+51502434,~EXTENDED STAY~ Affordable in DFW! Free WiFi!,District 10,32.91552,-96.73767,Entire rental unit,Entire home/apt,2,1.0,1.0,79.0,28,1125,4.0,4.2,4.2,4.6,4.4,3.4,3.6,True,329464978
+51519634,Sunny Studio Lorraine Full Kitchen & Parking,District 14,32.80042,-96.78718,Entire rental unit,Entire home/apt,2,,1.0,61.0,2,1125,4.76,4.76,4.76,4.96,4.68,4.72,4.84,False,51662786
+51558547,"Luxe Warehouse in Downtown Dallas, TX",District 2,32.76749,-96.78802,Entire home,Entire home/apt,10,2.0,5.0,679.0,2,28,4.94,4.89,5.0,4.94,4.94,4.78,4.89,False,417677922
+51603773,Stunning Remodeled Home in The Heart of Dallas,District 13,32.90026,-96.87706,Entire home,Entire home/apt,9,4.0,5.0,150.0,2,365,4.82,4.95,4.89,5.0,4.95,4.68,4.91,True,413236511
+51652086,Executive Equipped Airbnb in Historic Neighborhood,District 2,32.79727,-96.77649,Entire rental unit,Entire home/apt,3,1.0,1.0,140.0,19,1125,5.0,5.0,5.0,5.0,5.0,5.0,5.0,False,23916014
+51673319,Dallas 2BR Premium Loft with Downtown + Pool Views,District 2,32.77813,-96.79694,Entire rental unit,Entire home/apt,8,2.0,2.0,148.0,1,90,4.8,4.9,4.9,4.75,4.85,4.9,4.8,True,36151189
+51760943,CozySuites | Gorgeous 1BR 1BA Apartment Downtown,District 14,32.78282,-96.7995,Entire rental unit,Entire home/apt,3,1.0,2.0,136.0,2,180,4.6,4.8,4.4,4.6,5.0,5.0,4.6,True,372592509
+51802969, The Jungalow Retreat ,District 9,32.83673,-96.69375,Entire home,Entire home/apt,6,2.0,2.0,134.0,4,365,4.78,4.83,4.72,4.94,4.89,4.56,4.72,False,38561005
+51822225,Peaceful place with King Bed near downtown,District 2,32.80157,-96.75906,Entire rental unit,Entire home/apt,3,1.0,1.0,94.0,1,365,4.44,4.56,4.33,4.78,4.78,3.89,4.0,False,376399998
+51838313,Unfurnished room available in New Lakeview Home,District 9,32.80636,-96.49327,Private room in home,Private room,1,1.0,,35.0,5,95,5.0,5.0,5.0,5.0,5.0,5.0,5.0,False,34821388
+51838888,Light & Bright Home Near Bishop Arts,District 1,32.73463,-96.86913,Entire home,Entire home/apt,6,3.0,2.0,150.0,2,45,4.86,5.0,5.0,4.86,5.0,5.0,4.86,False,146034262
+51847577,The Dallas Pearl Lowest Greenville Casual Townhome,District 14,32.81258,-96.76571,Entire home,Entire home/apt,4,2.0,3.0,119.0,5,180,5.0,4.8,5.0,4.8,4.8,5.0,5.0,False,32999330
+51893404,DOWNTOWN DALLAS- LUXURIOUS 1BED 1BATH MODERN PAD,District 2,32.80354,-96.77674,Entire rental unit,Entire home/apt,4,1.0,1.0,70.0,1,1125,4.82,4.84,4.84,4.89,4.89,4.73,4.78,True,397779955
+51998664, Modern Luxe in Dallas  FREE Wine WIFI Wii games,District 10,32.89634,-96.7557,Entire home,Entire home/apt,16,4.0,6.0,470.0,1,180,4.86,4.98,4.9,4.98,5.0,4.88,4.88,True,364004962
+52014593,*Love Field* Emerald Place,District 2,32.83688,-96.83226,Entire guesthouse,Entire home/apt,2,1.0,1.0,79.0,7,180,4.85,4.77,4.92,5.0,4.96,4.35,4.88,False,397915606
+52043980,DAL069-Dallas Med District 2bd 2bth courtyard view,District 2,32.81121,-96.81739,Entire rental unit,Entire home/apt,4,2.0,3.0,123.0,30,360,5.0,5.0,5.0,5.0,5.0,5.0,4.0,True,1171880
+52072641,Beautiful Unit Near Deep Ellum/Grnville/Baylor MC,District 2,32.80447,-96.77173,Entire rental unit,Entire home/apt,3,1.0,2.0,100.0,2,15,4.4,4.4,4.6,4.2,5.0,4.6,4.2,False,241215
+52104232,Comfortable  and clean apartment on first floor!,District 12,32.99967,-96.77612,Entire rental unit,Entire home/apt,3,1.0,1.0,86.0,1,1125,4.88,4.85,4.73,5.0,4.98,4.9,4.9,False,90319222
+52107198,Spacious/Quiet/Clean 2 Bedrms+2 Full Bathrms,District 9,32.85364,-96.6877,Entire home,Entire home/apt,5,2.0,2.0,170.0,2,60,4.6,4.6,4.7,5.0,5.0,4.8,4.8,False,116880529
+52126844,Townhome above artist's studio in Bishop Arts,District 1,32.74928,-96.8311,Entire townhouse,Entire home/apt,8,3.0,5.0,428.0,1,1125,5.0,5.0,5.0,5.0,5.0,5.0,5.0,False,306644278
+52143313,Uptown 2 bedroom + den Super Comfortable,District 14,32.81621,-96.78559,Entire rental unit,Entire home/apt,7,3.0,4.0,150.0,28,320,,,,,,,,True,112593570
+52155445,Brand New - Stylish & Modern 4-Bedroom Texas Ranch,District 13,32.88414,-96.86684,Entire home,Entire home/apt,8,4.0,4.0,279.0,2,1125,5.0,5.0,5.0,5.0,5.0,4.88,5.0,True,73407361
+52164775,Stylish Home - Pool Table- 15 Min. to Downtown,District 3,32.72091,-96.97679,Entire home,Entire home/apt,6,3.0,3.0,202.0,3,1125,4.64,4.91,4.82,4.91,4.73,4.95,4.82,True,43042344
+52169111,Bardo Loft 304,District 1,32.75067,-96.82338,Entire rental unit,Entire home/apt,2,1.0,1.0,94.0,1,65,4.75,4.88,4.81,4.81,5.0,4.88,4.75,True,373957214
+52186258,*Rustic Realm*2QBeds*ConventionCenter* Gym*Valet*,District 2,32.77662,-96.79564,Entire rental unit,Entire home/apt,8,2.0,3.0,151.0,2,1125,4.67,4.75,4.67,4.42,4.67,4.67,4.58,True,80546953
+52220016,"Affordability Meets Comfort! 3 Amazing Units, On-Site Restaurant & Bar, Free Breakfast",District 11,32.92617,-96.76378,Room in hotel,Private room,12,3.0,6.0,375.0,1,365,,,,,,,,True,5615582
+52309458,Rustic Downtown Loft X RBA Living,District 2,32.77716,-96.79509,Entire rental unit,Entire home/apt,3,1.0,1.0,127.0,2,365,4.86,5.0,4.76,4.79,4.9,4.86,4.83,True,97150171
+52404943,"Affordable Getaway! Minutes  White Rock Lake Park, Pool, Free Parking",District 11,32.92807,-96.76336,Room in hotel,Private room,4,1.0,2.0,125.0,1,365,,,,,,,,True,5615582
+52484947,Simplicity and Convenience! Pool View w. Balcony!,District 10,32.91351,-96.73888,Entire rental unit,Entire home/apt,2,1.0,1.0,72.0,28,1125,4.63,4.25,4.88,5.0,5.0,4.63,4.5,True,329464978
+52513268, STYLISH LUXE APT DOWNTOWN DALLAS- AA CENTER,District 2,32.79573,-96.81462,Entire rental unit,Entire home/apt,4,1.0,2.0,132.0,1,9,5.0,5.0,4.98,4.98,4.98,4.98,5.0,True,236146969
+52517456,Deep Ellum/Downtown/Uptown/Fair Park 1BR Apartment,District 2,32.77865,-96.78659,Entire rental unit,Entire home/apt,4,1.0,1.0,96.0,1,29,4.89,4.89,4.81,4.75,4.97,4.97,4.89,True,141551161
+52560317,Chic Modern Home,District 12,32.99048,-96.78686,Entire home,Entire home/apt,10,4.0,7.0,375.0,2,365,4.8,5.0,4.9,4.8,4.9,4.9,4.8,False,105820908
+52576388,Dallas Grove | 7 beds | Backyard | Garage,District 6,32.7853,-96.84413,Entire home,Entire home/apt,10,3.0,7.0,161.0,2,1125,4.93,4.89,4.89,5.0,5.0,4.75,4.89,True,112691595
+52596437,THE GROOVY VIBE,District 9,32.83105,-96.68622,Entire home,Entire home/apt,6,3.0,3.0,211.0,2,1125,4.81,4.96,4.78,4.85,4.67,4.93,4.89,True,212118803
+52598830,Henderson Haven - 1 bedroom King Bed Private Patio,District 14,32.81753,-96.78208,Entire rental unit,Entire home/apt,2,1.0,1.0,101.0,1,365,5.0,5.0,4.97,5.0,5.0,4.97,4.97,False,14879587
+52635590,THE BOHO LUXE ESCAPE FASTWIFIFREE COFFEE,District 14,32.79423,-96.78941,Entire rental unit,Entire home/apt,3,1.0,1.0,106.0,2,60,4.62,4.72,4.66,4.86,4.84,4.62,4.7,False,218157373
+52638779,1-bed Corporate Condo 4 miles from Downtown Dallas,District 14,32.81754,-96.80658,Entire rental unit,Entire home/apt,2,1.0,1.0,150.0,2,90,5.0,5.0,5.0,5.0,5.0,5.0,5.0,False,202030836
+52689100,Home On The Hill Near Downtown Dallas,District 4,32.69836,-96.8498,Entire home,Entire home/apt,6,3.0,4.0,155.0,4,90,4.8,4.8,4.8,5.0,5.0,4.8,4.9,False,75557070
+52740403,"Rf. FOR A SINGLE GUEST, A PRIVATE ROOM, BEST DEAL!",District 8,32.67166,-96.74782,Private room in home,Private room,1,1.0,1.0,40.0,7,1125,,,,,,,,False,125752097
+52796144,TIKI HUT,District 14,32.80615,-96.80196,Entire rental unit,Entire home/apt,4,1.0,2.0,68.0,1,365,4.71,4.86,4.79,4.86,4.86,4.93,4.86,True,42083772
+52797848,Ultimate Game House with Rooftop Terrace,District 14,32.79753383756965,-96.79133429364911,Entire townhouse,Entire home/apt,10,3.0,5.0,193.0,1,365,5.0,4.95,4.95,5.0,5.0,4.88,4.81,False,427431300
+52813463,"MODERN HIGH RISE, W/ STUNNING VIEW.",District 14,32.780980401456695,-96.7976372127962,Entire rental unit,Entire home/apt,3,1.0,1.0,169.0,2,3,,,,,,,,False,29102505
+52856084,New Luxury Modern Open Concept | 2BR | Dallas,District 14,32.80922,-96.76726,Entire townhouse,Entire home/apt,4,2.0,4.0,239.0,1,1125,4.71,4.59,4.65,4.59,4.71,4.94,4.65,False,55212553
+52857420,Lively Urban living/Knox Henderson District,District 14,32.81499,-96.78425,Entire townhouse,Entire home/apt,8,2.0,2.0,193.0,2,60,4.93,4.93,4.87,5.0,5.0,5.0,5.0,False,414861542
+52899131,"MARVELOUS 1BR Near downtown! Pool, Gym, Balcony!",District 14,32.79743,-96.78906,Entire rental unit,Entire home/apt,4,1.0,1.0,102.0,1,28,4.74,4.78,4.74,4.37,4.89,4.7,4.56,True,345780100
+52913989,Your Uptown/Downtown Dallas Loft w pool view,District 2,32.81016,-96.81777,Entire loft,Entire home/apt,4,1.0,2.0,92.0,1,7,4.89,4.89,4.83,4.8,4.94,4.97,4.83,True,416890129
+52926822,ALL Luxury Getaway! Private Entrance & Kitchenette,District 9,32.83181,-96.67256,Private room in casa particular,Private room,2,1.0,1.0,66.0,28,1125,5.0,5.0,5.0,5.0,5.0,5.0,5.0,False,415725578
+52964834,Luxurious Dallas Home - 5 minutes from Downtown,District 6,32.78327,-96.85552,Entire home,Entire home/apt,16,4.0,7.0,237.0,2,1125,4.71,4.57,4.81,4.95,4.76,3.95,4.71,False,407831997
+52966510,Private room in luxury 2B2B apartment by Galleria,District 11,32.93571,-96.8167,Private room in rental unit,Private room,2,1.0,1.0,48.0,2,1125,4.71,5.0,4.43,4.86,5.0,5.0,5.0,True,242900088
+53005608,Dallas Casablanca Bungalow + Pool & Hot Tub,District 7,32.81612,-96.68147,Entire home,Entire home/apt,12,4.0,7.0,540.0,1,90,5.0,4.89,5.0,5.0,5.0,4.74,4.95,False,103331883
+53044800,"Casa Mariposa: Extended Stays, Pets, Bishop Arts!",District 1,32.75363,-96.8387,Entire home,Entire home/apt,6,3.0,3.0,204.0,2,180,5.0,5.0,5.0,5.0,5.0,5.0,5.0,False,56393267
+53115967,Cozy 3 Bedroom Home Cityplace Dallas,District 2,32.80561,-96.78237,Entire home,Entire home/apt,8,3.0,5.0,321.0,2,365,4.87,4.93,4.87,5.0,5.0,4.87,4.93,True,98434381
+53116868,3rd room at green house,District 2,32.793409409157164,-96.75797554822304,Private room in home,Private room,1,1.0,1.0,40.0,1,365,5.0,5.0,5.0,5.0,5.0,5.0,5.0,True,249960325
+53135542,Beautiful 1 Bedroom Loft in the Heart of Downtown,District 2,32.77872,-96.79754,Entire loft,Entire home/apt,4,1.0,2.0,109.0,2,365,4.56,4.72,4.61,3.89,4.61,4.67,4.67,True,192596428
+53154959,Modern Studio Rental in the Heart of Uptown Dallas,District 14,32.79686,-96.79882,Entire rental unit,Entire home/apt,4,1.0,,139.0,1,150,5.0,5.0,5.0,5.0,5.0,5.0,5.0,False,22733504
+53264421,Cozy 1-Bedroom Oaklawn condo,District 14,32.81413,-96.81186,Entire condo,Entire home/apt,2,1.0,1.0,68.0,1,31,5.0,5.0,5.0,5.0,5.0,5.0,5.0,False,431215482
+53268897,New Cozy Home in Dallas near Bishop Arts District,District 1,32.73548,-96.8431,Entire home,Entire home/apt,6,3.0,3.0,241.0,2,1125,5.0,5.0,5.0,5.0,5.0,4.86,5.0,True,431246376
+53280915,Bishop Arts Studio w/ Free Parking WiFi,District 1,32.75358,-96.8276,Entire rental unit,Entire home/apt,2,,1.0,91.0,1,365,4.88,4.94,5.0,4.88,5.0,5.0,4.88,False,338035606
+53282412,Cozy Downtown Dallas Hideaway with City Views,District 2,32.77029,-96.79289,Entire rental unit,Entire home/apt,5,1.0,1.0,115.0,1,1125,4.92,4.92,5.0,5.0,4.94,4.83,4.89,False,200596561
+53310118,Cozy Studio with a comfortable Queen Bed near DT,District 2,32.79488,-96.76951,Entire rental unit,Entire home/apt,2,,1.0,81.0,1,1125,4.55,4.91,4.55,5.0,4.82,4.86,4.77,True,47055693
+53313085,Farmhouse-ish. Farmhouse decor without the farm.,District 2,32.80846,-96.81186,Entire condo,Entire home/apt,4,2.0,2.0,75.0,30,365,5.0,5.0,5.0,5.0,5.0,5.0,5.0,False,49028930
+53326120,"Cozy 1BR Apt near Parks, Mall &Nature ",District 13,32.86597,-96.75371,Entire rental unit,Entire home/apt,4,1.0,1.0,80.0,1,1125,4.83,4.83,5.0,5.0,5.0,4.33,4.67,False,381968845
+53331126,2 Bed 2 Bath Getaway Close to DwnTwn Dallas,District 14,32.80093,-96.791,Entire rental unit,Entire home/apt,5,2.0,2.0,142.0,2,90,4.78,4.89,4.67,5.0,4.89,4.78,4.67,True,334800981
+53356891,NEW Dallas Condo - 1 bedroom / 1 bath + pool view,District 11,32.95509,-96.79957,Entire condo,Entire home/apt,4,1.0,1.0,105.0,1,1125,5.0,5.0,4.86,5.0,5.0,5.0,4.86,False,121544944
+53476353," Stunning Loft in DT Dallas w/ COOL Artist Mural I Pool,Gym,Theatr",District 2,32.77651,-96.79599,Entire loft,Entire home/apt,4,1.0,2.0,135.0,1,1125,4.82,4.94,4.82,4.7,4.76,4.82,4.76,True,28836312
+53516229,"Luxury 3 Bed, 2.5 Bedroom Downtown Dallas",District 2,32.78388,-96.78267,Entire condo,Entire home/apt,6,3.0,5.0,222.0,1,365,4.33,3.89,4.78,3.89,4.33,4.67,4.56,False,432503132
+53559523,Near Bishop Arts & Downtown (30 night minimum),District 1,32.75498,-96.85903,Entire condo,Entire home/apt,2,1.0,1.0,82.0,30,180,,,,,,,,True,22801521
+53604453,LUXURY STAY IN THE  OF DALLAS FAST WIFI W/ &,District 2,32.80242,-96.77753,Entire rental unit,Entire home/apt,2,1.0,1.0,73.0,1,365,4.94,4.98,4.96,4.96,5.0,4.86,4.96,True,429328302
+53623848,2Bed/1Bath Penthouse apartment in Uptown,District 14,32.80499,-96.7975,Entire rental unit,Entire home/apt,5,2.0,2.0,141.0,2,1125,4.22,4.5,4.11,4.44,4.83,4.89,4.44,True,280661175
+53656561,Flexible / Steps to Highland Park / 4bedroom,District 14,32.82035,-96.81297,Entire townhouse,Entire home/apt,10,4.0,4.0,319.0,14,1125,,,,,,,,True,430957331
+53666164,Downtown Arts District 1 Bedroom,District 14,32.78776,-96.79899,Entire rental unit,Entire home/apt,3,1.0,1.0,232.0,1,365,5.0,4.95,4.89,5.0,4.95,4.95,4.89,True,51318032
+53690439,1 Bedroom Business/Leisure,District 14,32.79888,-96.78549,Entire rental unit,Entire home/apt,3,1.0,2.0,128.0,2,28,4.7,4.7,4.8,4.5,5.0,4.7,4.8,False,421084840
+53773874,Luxury Large Studio Loft @ MEDICAL DISTRICT ,District 2,32.81778,-96.83416,Entire rental unit,Entire home/apt,4,1.0,1.0,85.0,3,60,4.5,5.0,4.5,5.0,5.0,5.0,4.5,False,403859537
+53825770,1 BR King | | Free Valet Parking | Downtown Views # 1,District 2,32.77864,-96.79705,Entire rental unit,Entire home/apt,4,1.0,5.0,95.0,2,365,4.64,4.73,4.64,4.64,4.73,4.64,4.64,True,181794187
+53830269,Downtown Dallas townhome in the city with yard,District 1,32.75043,-96.86128,Entire home,Entire home/apt,8,8.0,4.0,300.0,15,365,,,,,,,,False,177403307
+53868482,Spacious 2BR | FREE parking | GYM | pool | WIFI,District 14,32.80964,-96.79466,Entire rental unit,Entire home/apt,5,2.0,2.0,169.0,28,320,5.0,5.0,5.0,5.0,5.0,5.0,5.0,True,108514926
+53883416,Chic-Blue Modern Home |Downtown |Deep Ellum |2BR,District 2,32.80726,-96.77257,Entire rental unit,Entire home/apt,8,2.0,4.0,117.0,1,1125,4.33,4.67,4.89,4.11,3.89,4.11,4.22,True,339857476
+53892565,"COMPLETE HOUSE ModernFarmhouse-Deep Ellum,Downtown",District 2,32.79336,-96.76789,Entire home,Entire home/apt,4,2.0,2.0,141.0,1,8,5.0,4.97,4.94,5.0,4.97,4.97,4.97,False,429952199
+53899015,The Best Two-Bedroom + den in North Dallas ,District 11,32.93039,-96.81921,Entire rental unit,Entire home/apt,7,3.0,4.0,200.0,56,320,,,,,,,,True,211225279
+53916096,Great one bedroom condo in North Dallas,District 11,32.93632,-96.80888,Entire condo,Entire home/apt,2,1.0,2.0,111.0,5,365,,,,,,,,True,52127894
+53924151,Dallas coveted luxurious neighborhood 2 BR home,District 13,32.91296769182573,-96.81992130645348,Entire serviced apartment,Entire home/apt,5,2.0,2.0,242.0,30,365,,,,,,,,True,388805011
+53933305,The Ultimate Retreat : Private Pool & Gas Firepit,District 11,32.9397,-96.77873,Entire home,Entire home/apt,16,5.0,8.0,496.0,2,365,4.83,5.0,4.75,5.0,4.83,4.83,5.0,True,18223041
+53982904,Spanish Villa Walk to Hottest Spots in Bishop Arts,District 1,32.75916,-96.82969,Entire home,Entire home/apt,6,2.0,3.0,209.0,1,28,5.0,4.98,4.98,5.0,5.0,5.0,4.98,True,66227163
+54036706,Rooftop Skyline &Office in popular Walkable Dallas,District 14,32.79591,-96.79118,Entire townhouse,Entire home/apt,6,3.0,5.0,359.0,2,365,5.0,4.8,5.0,5.0,5.0,5.0,5.0,False,437023876
+54058200,Elegant 3 bdrm home on prestigious Swiss Ave,District 14,32.80583,-96.76454,Entire villa,Entire home/apt,4,3.0,3.0,850.0,30,365,,,,,,,,True,19393471
+54066857,"Dog-Friendly Fourplex - Free WiFi, Central AC, 4 Washer/Dryers, 4 Full Kitchens",District 14,32.80094,-96.76549,Entire rental unit,Entire home/apt,8,4.0,4.0,500.0,2,365,,,,,,,,True,26497220
+54121071,New Listing!!! Dallas Retro House | KING Bed & Backyard,District 2,32.80316,-96.78271,Entire home,Entire home/apt,8,3.0,4.0,234.0,2,90,,,,,,,,True,356896257
+54128666,Amazing Place swimming pool and shopping Centers R,District 11,32.88513,-96.77122,Entire condo,Entire home/apt,4,1.0,2.0,89.0,4,1120,5.0,5.0,5.0,5.0,5.0,5.0,5.0,False,413855313
+54156374,Cozy 3br/2 ba home near Lovefield Airport & UTSW,District 2,32.83699793243169,-96.8483222263713,Entire home,Entire home/apt,7,3.0,3.0,167.0,1,1125,5.0,5.0,4.8,5.0,5.0,5.0,5.0,True,45579305
+54229502,Lovely Uptown Dallas 1B/1B - entire unit.,District 2,32.81248,-96.78933,Entire rental unit,Entire home/apt,4,1.0,1.0,127.0,2,365,5.0,5.0,5.0,5.0,5.0,5.0,5.0,True,234869624
+54326979,"Trip to Dallas On the Budget! Pool, Free Breakfast, Minutes Dallas Galleria",District 11,32.92626,-96.76389,Room in hotel,Private room,6,1.0,3.0,139.0,1,365,5.0,5.0,5.0,5.0,5.0,5.0,5.0,True,415808927
+54331134,Sophisticated New Build Perfect For Big Groups & Near Downtown,District 4,32.71095,-96.81675,Entire home,Entire home/apt,12,4.0,4.0,272.0,1,14,5.0,5.0,5.0,5.0,5.0,5.0,5.0,True,120698742
+502730727035921075,FREE WINE & SNACKS| NEAR EVERYTHING DWNTWN DALLAS,District 2,32.77028,-96.78638,Entire rental unit,Entire home/apt,4,1.0,1.0,116.0,3,1125,4.82,4.94,4.82,4.82,4.94,4.59,4.76,True,64056390
+506437640314298333,Oaklawn Loft 2BR-2Bath - Outdoor Terrace,District 14,32.81605,-96.80892,Entire rental unit,Entire home/apt,4,2.0,2.0,118.0,5,1125,4.0,4.5,4.0,5.0,4.5,4.6,4.2,True,43042344
+522357731168067842,Stylish Space / Great for Groups / Bishop Arts!,District 1,32.75167,-96.83814,Entire home,Entire home/apt,10,4.0,5.0,299.0,4,365,4.88,4.88,4.88,5.0,5.0,4.88,4.63,True,43042344
+527441018253133230,Bright and Cozy One-Bedroom Apartment,District 11,32.93556,-96.8169,Entire rental unit,Entire home/apt,3,1.0,2.0,91.0,28,1125,4.82,4.88,4.47,5.0,5.0,4.88,4.71,True,421058500
+538351180646531567,Knox/Henderson Mansion Perfect for large Groups,District 14,32.8279,-96.78089,Entire home,Entire home/apt,15,4.0,8.0,596.0,2,365,4.71,5.0,5.0,4.71,4.57,5.0,5.0,True,56683939
+540881354188144194,Fabulous home steps away from Baylor and Downtown,District 2,32.79134,-96.77327,Entire home,Entire home/apt,6,2.0,4.0,141.0,2,365,4.56,4.89,4.78,4.89,5.0,4.78,4.78,True,56683939
+541579821766951521,1-bedroom apartment uptown Dallas,District 2,32.7996,-96.77942,Entire rental unit,Entire home/apt,3,1.0,1.0,90.0,2,365,5.0,5.0,4.67,5.0,5.0,5.0,5.0,False,424016523
+545542512175311835,Kay Bailey Hutchison Convention Center Dallas|1 bedroom apartment |Valet Parking | Washer Dryer,District 2,32.77878,-96.79652,Entire rental unit,Entire home/apt,4,1.0,2.0,100.0,14,120,5.0,3.0,3.0,3.0,3.0,3.0,3.0,True,188733636
+547143260061627138,Dallas Luxury Townhouse - Beautiful North Dallas,District 14,32.81676,-96.80911,Entire townhouse,Entire home/apt,5,2.0,3.0,191.0,1,365,4.78,4.78,4.56,5.0,4.89,5.0,4.56,True,202882909
+547297821451308765,WanderJaunt | Cooper | 2BR | Highland Park,District 14,32.84031,-96.77372,Entire rental unit,Entire home/apt,2,2.0,2.0,215.0,1,365,4.86,5.0,4.86,4.0,4.71,4.57,4.71,True,104309976
+548702931066133365,2 Bedroom Luxury Home.. Wooden Floors and Ceilings,District 5,32.71843,-96.6426,Entire home,Entire home/apt,4,2.0,2.0,80.0,2,90,4.9,5.0,5.0,4.86,4.9,4.76,5.0,True,442285612
+549280945531743525,1-Bedroom Delight with Outdoor Spa and Workspace,District 2,32.79929,-96.76875,Entire condo,Entire home/apt,3,1.0,1.0,155.0,19,365,5.0,5.0,4.0,5.0,5.0,5.0,4.0,False,23916014
+552188867477879516,Luxurious Condo in Downtown Dallas- FREE parking!,District 14,32.7976,-96.78463,Entire serviced apartment,Entire home/apt,3,1.0,1.0,163.0,1,180,4.69,4.85,4.88,5.0,5.0,4.77,4.85,False,189991077
+552803726249988234,WanderJaunt | Floyd | 1BR | Highland Park,District 14,32.83989,-96.77507,Entire rental unit,Entire home/apt,2,1.0,1.0,147.0,1,365,4.6,4.9,4.8,4.8,4.6,5.0,4.5,True,104309976
+552898719812095000,Lovely 1bd room apt mins away from downtown,District 13,32.83756,-96.81848,Entire rental unit,Entire home/apt,4,1.0,1.0,135.0,3,365,,,,,,,,False,103300709
+553817968721226629,Destination at the Cedars | 1 BR | Downtown Dallas,District 2,32.77085,-96.79595,Entire rental unit,Entire home/apt,3,1.0,1.0,145.0,2,365,5.0,5.0,5.0,5.0,5.0,5.0,5.0,True,262224182
+554607982095587858,Relaxing 2-story loft with private patio,District 14,32.81151,-96.75817,Entire rental unit,Entire home/apt,4,2.0,2.0,148.0,19,365,5.0,5.0,5.0,5.0,5.0,5.0,5.0,False,23916014
+555206817081046516,Luxury 4 Bedroom Property! Close to Downtown!,District 6,32.78751,-96.84677,Entire home,Entire home/apt,14,4.0,11.0,206.0,3,365,5.0,4.75,4.75,5.0,5.0,4.25,4.75,False,67815046
+556626529603224006,R&P Couples Getaway in the heart of Uptown/Stylish,District 2,32.8001,-96.7813,Entire rental unit,Entire home/apt,2,1.0,2.0,125.0,1,365,5.0,5.0,4.5,4.5,5.0,5.0,4.5,True,257704044
+556660358278221986,Rooftop Deck/Luxury 1 Bdrm in Uptown Dallas,District 14,32.80581,-96.79848,Entire rental unit,Entire home/apt,4,1.0,1.0,128.0,1,365,4.71,4.71,5.0,3.86,4.71,5.0,4.71,True,257704044
+558082929396142733,Dallas Getaway Villa | Travel | Modern Vacation,District 13,32.91804,-96.83258,Entire home,Entire home/apt,8,4.0,5.0,393.0,1,365,4.5,4.75,4.5,4.75,4.75,5.0,4.25,False,81283655
+558297313727061491,Entire HighRise 1Bed - Dallas- 8mins from Downtown,District 13,32.87151,-96.76672,Entire rental unit,Entire home/apt,2,1.0,1.0,89.0,2,365,,,,,,,,True,340948592
+558782871702139985,Upscale living in Victory Park  1 BR Apt Dallas,District 2,32.79049283296507,-96.80799872211682,Entire serviced apartment,Entire home/apt,3,1.0,1.0,175.0,30,365,,,,,,,,True,388805011
+559347430303849755,Upscale living in Victory Park  1 BR Apt Dallas,District 2,32.78993,-96.80819,Entire serviced apartment,Entire home/apt,3,1.0,1.0,171.0,30,365,,,,,,,,True,388805011
+559411025167585153,Stunning 1/2acre Retreat w/ Pool&Spa near Downtown,District 9,32.81626,-96.69464,Entire home,Entire home/apt,10,4.0,9.0,592.0,2,180,5.0,5.0,4.71,5.0,4.86,5.0,5.0,False,168570791
+563181411896424919,Relaxing Highland Park rental,District 13,32.8466,-96.8139,Entire rental unit,Entire home/apt,2,1.0,1.0,300.0,1,365,5.0,5.0,5.0,5.0,5.0,5.0,5.0,True,147578813
+564339118364054109,COZY CORPORATE UNIT IN DFW!,District 10,32.91427,-96.73892,Entire rental unit,Entire home/apt,2,1.0,1.0,95.0,28,200,,,,,,,,True,329464978
+564548914144505635,"Newly Built 4BR home in Uptown Dallas - Private Pool, Hot Tub, Gym & Games Room!",District 14,32.8158,-96.77147,Entire home,Entire home/apt,10,4.0,4.0,440.0,1,21,5.0,5.0,5.0,5.0,5.0,5.0,5.0,True,45284462
+565301552356004320,Luxury 850 sq ft High-Rise w/ views and sky pool,District 14,32.78374,-96.8019,Entire rental unit,Entire home/apt,4,1.0,1.0,119.0,1,365,4.97,5.0,4.97,4.94,4.97,4.87,4.9,True,203603888
+566123331044780075,Bishops Suite Escape,District 1,32.73884,-96.84308,Entire home,Entire home/apt,6,3.0,3.0,121.0,3,31,4.8,4.8,4.6,5.0,5.0,4.4,4.8,True,294539121
+567391108189033811,Private Primary Room in Cheerful Residential Home,District 2,32.80588,-96.77662,Private room in home,Private room,1,1.0,1.0,70.0,2,4,,,,,,,,False,73837114
+567462926149215199,NEW 3BR/2BA Preston Hollow with backyard & firepit,District 6,32.87237,-96.85029,Entire home,Entire home/apt,7,3.0,4.0,190.0,3,180,5.0,4.88,5.0,5.0,5.0,5.0,5.0,True,248082602
+568801219255005854,SPACIOUS LUX UNIT DOWNTOWN DALLAS SKYLINE VIEW,District 2,32.77097,-96.80227,Entire rental unit,Entire home/apt,4,1.0,1.0,111.0,3,1125,4.33,5.0,5.0,5.0,5.0,5.0,5.0,False,446520785
+571937644962212901,ENTIRE TOWNHOME| 5 mins to DAL/UTSW/Dowtown,District 2,32.8299,-96.85538,Entire condo,Entire home/apt,5,2.0,2.0,195.0,2,200,5.0,5.0,5.0,5.0,5.0,4.75,5.0,False,446589817
+572271960798410664,  KING Modern | PET FRIENDLY | W/D ,District 11,32.93124,-96.82175,Entire rental unit,Entire home/apt,3,1.0,2.0,117.0,28,365,5.0,5.0,5.0,5.0,5.0,5.0,5.0,True,211225279
+572354298885719179,NEW! Picturesque Dallas Home Near Dtwn w/ Fire Pit,District 4,32.72642,-96.82079,Entire home,Entire home/apt,6,3.0,3.0,168.0,2,1125,4.5,4.5,4.83,4.5,4.67,4.33,4.67,True,124060715
+572393726334012294,Beautiful 1 bedroom apartment with Lakeview,District 9,32.86856122015262,-96.5457354572074,Entire rental unit,Entire home/apt,3,1.0,1.0,150.0,2,365,,,,,,,,True,447245257
+572690358116295664,Addys Stay & Comfort,District 2,32.78071,-96.78644,Entire rental unit,Entire home/apt,3,1.0,1.0,115.0,1,365,4.81,4.81,4.88,4.5,4.81,4.94,4.94,False,289213458
+573289649365386031,Spacious master bedroom near Bishop Arts District,District 1,32.73989829722828,-96.86633684563604,Private room in home,Private room,1,1.0,1.0,46.0,1,1125,4.86,4.86,5.0,5.0,5.0,4.86,4.86,True,368755627
+576717028657824475,It's Our Location! Easy to get around in Dallas,District 14,32.81121,-96.81118,Entire home,Entire home/apt,6,3.0,3.0,350.0,3,1125,,,,,,,,True,104509952
+577051186585433124,The Gold and Gray Oasis Queen Bed w/ Pool & Free Parking,District 14,32.84478,-96.76266,Entire rental unit,Entire home/apt,3,1.0,2.0,111.0,1,28,5.0,5.0,5.0,5.0,5.0,5.0,5.0,True,393692054
+577421755019748184,Welcoming Neighborhood 4 Bed 3 Bath Single Story,District 10,32.89644,-96.73366,Entire home,Entire home/apt,8,4.0,4.0,454.0,14,500,5.0,5.0,5.0,5.0,5.0,5.0,5.0,False,309314424
+577578864808331666,"Executive Stay in Historic, Central Dallas",District 14,32.79984,-96.76675,Entire rental unit,Entire home/apt,2,1.0,1.0,122.0,19,365,,,,,,,,True,23916014
+577700108446944733,Downtown Dallas- Penthouse *Amazing Views*,District 2,32.78699,-96.80905,Entire rental unit,Entire home/apt,5,1.0,1.0,225.0,1,365,5.0,4.5,5.0,5.0,5.0,5.0,5.0,True,72419024
+577826135952045097, KING STUDIO | FREE PARKING | W/D ,District 2,32.78888,-96.80906,Entire rental unit,Entire home/apt,3,,2.0,111.0,40,365,4.5,4.5,4.5,5.0,4.5,5.0,4.0,True,112593570
+582713406655571176,Lovely one bedroom modern,District 13,32.87599,-96.76075,Entire condo,Entire home/apt,2,1.0,1.0,89.0,21,365,,,,,,,,False,395748661
+585626791143135075,Room 2 at pink house,District 2,32.79577,-96.75755,Private room in home,Private room,2,1.0,1.0,64.0,1,365,4.83,4.83,5.0,5.0,5.0,4.67,4.83,True,450089260
+585637614308160310,Room 3 at pink house,District 2,32.79368,-96.75802,Private room in home,Private room,2,1.0,1.0,55.0,1,365,4.9,4.85,4.85,5.0,5.0,4.55,5.0,True,450089260
+588989660722921759,"New Apartment , Pool , SMU & North Park Mall W/D p",District 13,32.87677,-96.75902,Entire condo,Entire home/apt,5,2.0,2.0,109.0,3,1125,,,,,,,,False,413855313
+590618099323727183,Female shared room. With a private bathroom.,District 10,32.91631,-96.75557,Shared room in home,Shared room,1,1.0,1.0,30.0,2,60,5.0,5.0,5.0,5.0,5.0,5.0,5.0,False,363928273
+590676305453645035,5 mins walk to Kay Bailey Hutchison Convention Center Dallas | Valet parking| washer and dryer,District 2,32.77847,-96.79608,Entire rental unit,Entire home/apt,4,1.0,2.0,99.0,1,365,,,,,,,,True,188733636
+592084972605358210,GOOD VIBES | 1 Bedroom Apt | Downtown/Deep Ellum,District 2,32.80028,-96.78316,Entire condo,Entire home/apt,3,1.0,1.0,87.0,1,365,,,,,,,,True,108770625
+592204244699710174,Cozy Luxurious Unitw/garage in Downtown/Deep Ellum,District 14,32.7973,-96.78655,Entire rental unit,Entire home/apt,7,2.0,3.0,149.0,3,365,4.86,4.86,5.0,4.86,5.0,5.0,5.0,True,56191133
+593007679767416291,New Renovated 3 bedroom townhouse w garage & yard,District 8,32.71543,-96.71121,Entire townhouse,Entire home/apt,4,3.0,3.0,136.0,1,14,,,,,,,,True,451738117
+593422364598374003,Downtown Dallas-ROSE RENTALS-Patio & City Views!,District 14,32.77869,-96.79987,Entire rental unit,Entire home/apt,8,2.0,3.0,177.0,1,1125,4.67,4.83,4.33,4.83,4.83,4.67,4.67,True,212632787
+594604402238692535,Landing | Modern Apartment with Amazing Amenities (ID807813),District 12,33.01478,-96.83351,Entire rental unit,Entire home/apt,2,1.0,1.0,88.0,30,1125,,,,,,,,True,263502162
+595691763438543067,Mid Century Park City's Home / 3 King beds!,District 13,32.86603,-96.79065,Entire home,Entire home/apt,6,2.0,3.0,176.0,2,365,3.8,4.4,3.6,4.8,4.4,4.4,3.6,True,43042344
+596467329689818772,Spacious 1 bedroom apt fully equipped & a patio!,District 2,32.80711,-96.81476,Entire rental unit,Entire home/apt,4,1.0,1.0,97.0,14,365,,,,,,,,True,296812111
+598185450369332118,2 Bedroom in upscale Oak Lawn district of Dallas,District 2,32.80891618134891,-96.8151275351914,Entire serviced apartment,Entire home/apt,5,2.0,2.0,177.0,30,365,,,,,,,,True,388805011
+599873822209855228,A New Standard of Living | 2 BR in Dallas,District 13,32.86608040939399,-96.79110412498709,Entire serviced apartment,Entire home/apt,5,2.0,2.0,212.0,30,365,,,,,,,,True,358058606
+600803815418601301,Lovely 1-bedroom loft in downtown Dallas,District 2,32.77732,-96.80214,Entire loft,Entire home/apt,5,1.0,1.0,127.0,1,365,4.67,5.0,5.0,5.0,5.0,5.0,5.0,False,453381283
+601394599314942019,Room Avaiable in Oak Lawn,District 2,32.820846828764964,-96.82467297196467,Private room in rental unit,Private room,1,1.0,1.0,300.0,1,365,5.0,5.0,5.0,5.0,4.0,5.0,5.0,False,53695533
+601633493433116358,"Private Guest House! Dallas, Texas",District 1,32.73646171096789,-96.87506167487209,Entire guesthouse,Entire home/apt,2,1.0,1.0,100.0,1,365,5.0,5.0,5.0,5.0,5.0,5.0,5.0,True,405460414
+601653790604411734,Peaceful 1BR apt located in North Dallas,District 12,32.99981232528048,-96.85262119387934,Entire rental unit,Entire home/apt,2,1.0,1.0,99.0,5,14,,,,,,,,False,196822632
+602013622818517887,"Modern 1-bedroom, Uptown apartment with pool",District 14,32.804472735296855,-96.79916214494472,Entire rental unit,Entire home/apt,2,1.0,1.0,104.0,2,7,4.0,5.0,5.0,2.0,3.0,5.0,5.0,False,30853276
+602098303312790358,Rustic 2 Bedroom Townhouse with a modern feel.,District 2,32.767933937908126,-96.78800441224706,Entire townhouse,Entire home/apt,4,2.0,2.0,175.0,2,365,5.0,5.0,5.0,5.0,5.0,4.5,5.0,True,147794149
+603411532295178722,Beautifully Updated/Stylish design/Great Location!,District 9,32.8544,-96.74488,Entire home,Entire home/apt,4,2.0,3.0,129.0,5,365,5.0,5.0,4.67,4.67,5.0,5.0,5.0,True,43042344
+603463063385674512,Bright & Stylish 2 Bed 2 Bath - Great Location!,District 9,32.85446911523684,-96.74326876419904,Entire home,Entire home/apt,4,2.0,3.0,178.0,5,365,,,,,,,,True,43042344
+603471966163297565,Upscale living in Victory Park - 1 Bedroom Apt,District 2,32.79120812069913,-96.81012673517304,Entire serviced apartment,Entire home/apt,3,1.0,1.0,175.0,30,365,,,,,,,,True,388805011
+603843653240135406,Hermoso y confortable condominio,District 2,32.84984891106179,-96.8285569339412,Entire condo,Entire home/apt,4,2.0,2.0,112.0,1,1125,,,,,,,,True,454041849
+605072807364027479,Cozi Uptown Bohemian oasis w/ King Bed and Hammock,District 2,32.808987553210585,-96.81676696258558,Entire rental unit,Entire home/apt,3,1.0,4.0,150.0,1,365,5.0,5.0,5.0,5.0,5.0,5.0,5.0,True,267469385
+605311373055931123,Newly Renovated Homey 3BD Near Downtown Dallas,District 1,32.74114012499657,-96.82679604303895,Entire home,Entire home/apt,7,3.0,5.0,135.0,7,365,,,,,,,,True,354526413
+606525554343802125,"Lovely, Classic And Well Furnished Space",District 14,32.7991633438975,-96.79920567587394,Entire rental unit,Entire home/apt,6,2.0,4.0,99.0,3,1125,1.0,1.0,4.0,4.0,3.0,4.0,1.0,True,452150435
+607109428056344788,Luxury Stay in Uptown,District 14,32.814756365941,-96.79525323900354,Entire townhouse,Entire home/apt,6,2.0,3.0,186.0,1,365,5.0,5.0,5.0,4.5,5.0,5.0,5.0,False,44855256
+609601334602530794,WanderJaunt | Quail | 3BR | Highland Meadows,District 9,32.869346617245846,-96.6829779154786,Entire home,Entire home/apt,6,3.0,3.0,187.0,1,365,,,,,,,,True,104309976
+610130586556764610,Luxury Modern Home in Dallas,District 6,32.878712,-96.856728,Entire home,Entire home/apt,10,3.0,5.0,259.0,2,365,,,,,,,,True,455368417
+612552405201827677,Modern One-Bedroom Apt Overlooking Victory Park,District 2,32.79306164621438,-96.81258149037252,Entire rental unit,Entire home/apt,3,1.0,1.0,120.0,1,27,4.83,5.0,4.83,4.83,5.0,5.0,5.0,False,455881732
+612573467362541075,$Summer Breeze Shared Living Space(Rm1/3-Top Bunk),District 7,32.74770439024942,-96.75949153289996,Shared room in home,Shared room,1,1.0,1.0,20.0,1,365,,,,,,,,True,113587095
+612982275475985815,Luxury High-Rise 1000 sqft with views and sky pool,District 14,32.78319662806337,-96.79924362008424,Entire rental unit,Entire home/apt,4,1.0,1.0,122.0,1,365,5.0,5.0,5.0,5.0,5.0,5.0,5.0,True,203603888
+615384031428393610,"Bright, quiet & spacious condo near hospitals",District 14,32.84373,-96.76675,Entire condo,Entire home/apt,1,1.0,1.0,90.0,30,365,,,,,,,,False,66471365
+615492584556983220,"Beautiful Craftsman Style Home ""Open-Concept""",District 4,32.72634118742057,-96.81664387977727,Entire home,Entire home/apt,4,2.0,2.0,112.0,1,30,,,,,,,,True,456572470
+615887437926475786,VP Luxurious 2BR AA Center w/free parking,District 2,32.79142863633943,-96.81076322621846,Entire rental unit,Entire home/apt,4,2.0,2.0,208.0,2,14,,,,,,,,False,119531958
+618095846510326782,Cheerful 3-bedroom home with indoor fireplace,District 2,32.839471471477346,-96.82757666802824,Entire home,Entire home/apt,8,3.0,4.0,150.0,1,365,4.0,3.0,5.0,5.0,4.0,4.0,3.0,False,12121542
+618718980187290566,BAYLOR MED CENTERDEEP ELLUMVIEWSBALCONY,District 2,32.78548110234126,-96.77987075877016,Entire rental unit,Entire home/apt,2,1.0,1.0,240.0,1,365,,,,,,,,False,348773191
+619043562533749972,1br w/jacuzzi pool + roof top bars and eateries,District 13,32.85783182550808,-96.77586605170254,Entire rental unit,Entire home/apt,2,1.0,2.0,160.0,1,5,,,,,,,,False,304302537
+620072527129088959,Lovely 1-bedroom w/Luxury Finishes Central Dallas,District 2,32.79750721152062,-96.7704408641088,Entire rental unit,Entire home/apt,3,1.0,1.0,123.0,19,365,,,,,,,,False,23916014
+620327691389303285,Spacious 2-bedroom loft in Historic Neighborhood,District 14,32.801306337879126,-96.76547680818427,Entire loft,Entire home/apt,4,2.0,2.0,160.0,19,365,,,,,,,,False,23916014
+620373262805852439,WanderJaunt | Albus | 2BR | Deep Ellum,District 2,32.78706514334656,-96.78207721140367,Entire rental unit,Entire home/apt,2,2.0,3.0,158.0,1,365,,,,,,,,True,104309976
+623295182749850047,Comfy 2BD Unit | Oaklawn | Close to DT | King BD,District 13,32.911929599342336,-96.81794219163612,Entire rental unit,Entire home/apt,6,2.0,2.0,103.0,1,365,5.0,5.0,5.0,5.0,5.0,5.0,5.0,False,143408297
+623440276761006814,Landing | Modern Apartment with Amazing Amenities (ID1781),District 13,32.87178617683512,-96.7656856609882,Entire rental unit,Entire home/apt,4,2.0,2.0,161.0,30,1125,,,,,,,,True,263502162
+623916558808411562,Dallas coveted luxurious neighborhood 2 BR home,District 13,32.91320722697456,-96.81970190850572,Entire serviced apartment,Entire home/apt,5,2.0,2.0,242.0,30,365,,,,,,,,True,388805011
+624036923063232412,Sunny South Dallas Cottage Home,District 7,32.76070613762889,-96.770586114629,Entire home,Entire home/apt,6,2.0,2.0,150.0,2,1125,,,,,,,,False,151527408
+624500898152125121,Luxury Stay in Highland Park,District 13,32.829910111130864,-96.82394502208383,Entire home,Entire home/apt,8,4.0,4.0,346.0,1,31,,,,,,,,False,433985261
+625918410297446541,PM. DallasTX Master bedroom with bathroom Queenbed,District 12,32.99354011082069,-96.86783677085704,Private room in home,Private room,2,1.0,1.0,10.0,1,365,,,,,,,,True,46863816
+627009803330100989,It's a Vibe!! luxury downtown Dallas condo,District 2,32.81717501452219,-96.83202875186966,Entire loft,Entire home/apt,4,1.0,3.0,138.0,2,365,,,,,,,,False,451117404
+549291311451207001,"Clean, cozy place of your own | 1BR in Addison",District 11,32.96462,-96.82297,Entire serviced apartment,Entire home/apt,3,1.0,1.0,150.0,30,365,,,,,,,,True,358058606
+612432843120404045,Peaceful 3-bedroom townhouse near lake Ray Hubbard,District 9,32.881177104191224,-96.4831936236396,Entire townhouse,Entire home/apt,6,3.0,3.0,130.0,2,365,,,,,,,,False,410090092
+589083865272288588,Lovely2-Bedroom Rental Unit with Free Parking,District 6,32.90311569877562,-96.92303087843594,Entire rental unit,Entire home/apt,5,2.0,4.0,101.0,1,365,,,,,,,,False,226565440
+15740109,Private Room  near airports and city center,District 6,32.92889,-96.96669,Private room in home,Private room,1,1.0,1.0,44.0,2,1125,4.93,4.98,4.91,5.0,5.0,5.0,4.98,False,77091168
+44049298,Royal European Vacation House with Pool,District 12,33.00786,-96.86861,Entire home,Entire home/apt,16,5.0,11.0,252.0,1,1125,4.71,4.71,4.74,4.82,4.91,4.86,4.6,False,34693825
+53514503,Calming Private Bedroom A in Spacious Shared House,District 12,32.98914,-96.86733,Private room in home,Private room,2,1.0,1.0,42.0,2,30,5.0,5.0,5.0,5.0,5.0,5.0,5.0,False,12548381
+50102577,Private Fifth Wheel Luxury Spa on Lake Ray Hubbard,District 9,32.84986,-96.49026,Camper/RV,Entire home/apt,3,1.0,2.0,199.0,2,1125,5.0,4.94,5.0,5.0,5.0,5.0,5.0,False,404203993
+50407260,"Maison de Luxe Brand NewCozy, Prime Location",District 11,32.93744,-96.82374,Entire rental unit,Entire home/apt,3,1.0,1.0,127.0,2,1125,4.83,4.93,5.0,4.86,4.9,5.0,4.86,True,243930927
+41419517,The Best Two-Bedroom + den in North Dallas,District 11,32.93058,-96.82275,Entire rental unit,Entire home/apt,7,3.0,5.0,185.0,20,320,,,,,,,,True,112593570
+13602580,Private Room Near the Airports,District 6,32.93119,-96.96537,Private room in home,Private room,2,1.0,1.0,45.0,2,1125,4.9,4.99,4.89,4.99,4.99,4.97,4.94,False,77091168
+52446270,Spacious 1 bedroom with workspace and patio,District 6,32.94743,-96.95705,Entire rental unit,Entire home/apt,4,1.0,1.0,100.0,1,365,5.0,5.0,5.0,4.83,5.0,4.83,5.0,False,424506128
+45992951,"Clean, cozy place of your own | 1BR in Addison",District 11,32.96364,-96.8233,Entire serviced apartment,Entire home/apt,3,1.0,1.0,137.0,30,365,,,,,,,,True,358058606
+47891327,"Clean, cozy place of your own  | 1 BR in Addison",District 11,32.96364,-96.8233,Entire serviced apartment,Entire home/apt,1,1.0,1.0,154.0,30,365,,,,,,,,True,358058606
+48227882,Brand New Modern Guest House w/ private yard,District 6,32.91567,-96.87725,Entire guesthouse,Entire home/apt,4,1.0,2.0,128.0,1,1125,4.87,4.98,4.87,4.96,5.0,4.91,4.87,False,20656729
+48718345,The Simple Life,District 6,32.90176,-96.91877,Entire rental unit,Entire home/apt,4,1.0,2.0,99.0,3,365,4.75,4.88,4.75,4.88,5.0,4.5,4.75,True,393029413
+45672136,Room for rent in peaceful Club Hill Garland -TX,District 9,32.86192,-96.5449,Private room in home,Private room,1,1.0,1.0,45.0,1,3,,,,,,,,True,370008263
+54390567,"Comfy 2/2 Condo by The Lake, 3 TVs & Arcade n Unit",District 9,32.85772,-96.54647,Entire condo,Entire home/apt,7,2.0,4.0,104.0,3,365,5.0,5.0,4.94,5.0,5.0,4.88,5.0,True,441597951
+53677809,Perfect Lakeside Home Heated Pool &  Pool Table,District 9,32.88866,-96.57858,Entire home,Entire home/apt,16,4.0,4.0,337.0,1,1125,5.0,5.0,4.86,5.0,5.0,5.0,5.0,False,87791367
+47138513,Quaint Texas Townhome,District 9,32.83129,-96.60561,Entire townhouse,Entire home/apt,6,3.0,4.0,151.0,2,1125,4.65,4.8,4.6,4.9,4.95,4.65,4.6,True,57438823
+552091940601821852,The Getaway Ranch: Xtra Large Balcony + King Bed,District 6,32.90556,-96.92516,Entire serviced apartment,Entire home/apt,6,2.0,3.0,139.0,3,1125,5.0,5.0,5.0,4.83,5.0,4.5,5.0,True,441364960
+593390343089766926,g. DallasTX discount 1 bedroomwithbathroomQueenbed,District 12,33.0149,-96.86524,Private room in home,Private room,2,1.0,1.0,13.0,1,365,,,,,,,,True,420137888
+552151929316843615,Lux Corporate Apt w/ King Bed in Farmers Branch!,District 6,32.90777,-96.926,Entire serviced apartment,Entire home/apt,6,2.0,3.0,137.0,3,50,4.83,5.0,5.0,5.0,4.83,5.0,5.0,True,441364960
